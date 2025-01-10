@@ -1886,6 +1886,7 @@
       "minecraft:skeleton": "2025-01-10 06:20:03 +0000",
       "minecraft:vindicator": "2025-01-10 05:58:31 +0000",
       "minecraft:spider": "2025-01-10 06:40:56 +0000",
+      "minecraft:zombified_piglin": "2025-01-10 22:51:48 +0000",
       "minecraft:zombie": "2025-01-10 06:26:45 +0000"
     },
     "done": false
@@ -3684,6 +3685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-10 22:51:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-10 21:20:32 +0000"
@@ -3879,6 +3886,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-10 20:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-10 22:51:50 +0000"
     },
     "done": true
   },
