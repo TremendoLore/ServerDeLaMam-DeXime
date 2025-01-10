@@ -3097,6 +3097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-10 22:04:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
     "criteria": {
       "has_book": "2025-01-10 21:04:35 +0000"
