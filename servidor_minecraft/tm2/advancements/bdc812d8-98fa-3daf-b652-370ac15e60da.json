@@ -1886,6 +1886,7 @@
       "minecraft:skeleton": "2025-01-10 06:20:03 +0000",
       "minecraft:vindicator": "2025-01-10 05:58:31 +0000",
       "minecraft:spider": "2025-01-10 06:40:56 +0000",
+      "minecraft:creeper": "2025-01-10 22:57:48 +0000",
       "minecraft:zombified_piglin": "2025-01-10 22:51:48 +0000",
       "minecraft:zombie": "2025-01-10 06:26:45 +0000"
     },
@@ -3922,6 +3923,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-10 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 23:02:20 +0000"
     },
     "done": true
   },
