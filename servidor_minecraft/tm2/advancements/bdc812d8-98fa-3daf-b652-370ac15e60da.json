@@ -42,6 +42,8 @@
       "minecraft:beach": "2025-01-10 05:18:22 +0000",
       "minecraft:river": "2025-01-10 06:06:01 +0000",
       "minecraft:lukewarm_ocean": "2025-01-11 02:39:25 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-11 02:49:24 +0000",
+      "minecraft:flower_forest": "2025-01-11 02:54:35 +0000",
       "minecraft:meadow": "2025-01-10 06:06:41 +0000",
       "minecraft:savanna": "2025-01-11 02:39:09 +0000",
       "minecraft:plains": "2025-01-10 05:16:52 +0000"
@@ -1895,7 +1897,8 @@
       "minecraft:creeper": "2025-01-10 22:57:48 +0000",
       "minecraft:zombified_piglin": "2025-01-10 22:51:48 +0000",
       "minecraft:cave_spider": "2025-01-11 00:21:15 +0000",
-      "minecraft:zombie": "2025-01-10 06:26:45 +0000"
+      "minecraft:zombie": "2025-01-10 06:26:45 +0000",
+      "minecraft:drowned": "2025-01-11 02:47:50 +0000"
     },
     "done": false
   },
@@ -4386,6 +4389,12 @@
     },
     "done": true
   },
+  "wilderwild:recipes/food/cooked_crab_claw_from_smoking": {
+    "criteria": {
+      "has_crab_claw": "2025-01-11 02:48:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4407,6 +4416,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/building_blocks/baobab_wood": {
+    "criteria": {
+      "has_log": "2025-01-11 02:51:47 +0000"
     },
     "done": true
   },
@@ -4452,6 +4467,12 @@
     },
     "done": true
   },
+  "wilderwild:recipes/misc/string_from_cattail": {
+    "criteria": {
+      "has_cattail": "2025-01-11 02:48:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4461,6 +4482,12 @@
   "stoneworks:recipes/building_blocks/sandstone_shingle_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/food/cooked_crab_claw_from_campfire_cooking": {
+    "criteria": {
+      "has_crab_claw": "2025-01-11 02:48:18 +0000"
     },
     "done": true
   },
@@ -4506,6 +4533,12 @@
     },
     "done": true
   },
+  "wilderwild:recipes/building_blocks/baobab_planks": {
+    "criteria": {
+      "has_logs": "2025-01-11 02:51:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4521,6 +4554,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/food/cooked_crab_claw": {
+    "criteria": {
+      "has_crab_claw": "2025-01-11 02:48:18 +0000"
     },
     "done": true
   },

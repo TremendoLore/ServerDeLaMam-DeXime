@@ -3044,6 +3044,7 @@
       "betternether:nether_mushroom_forest_edge": "2025-01-11 02:39:30 +0000",
       "betternether:nether_mushroom_forest": "2025-01-11 02:41:05 +0000",
       "betternether:wart_forest": "2025-01-11 02:01:13 +0000",
+      "betternether:old_warped_woods": "2025-01-11 02:48:07 +0000",
       "betternether:soul_plain": "2025-01-11 02:01:43 +0000"
     },
     "done": false
@@ -3636,6 +3637,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-11 02:52:33 +0000",
+      "minecraft:warped_forest": "2025-01-11 02:51:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-11 00:19:38 +0000"
@@ -3681,6 +3689,12 @@
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-11 02:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-11 02:49:42 +0000"
     },
     "done": true
   },
@@ -3840,6 +3854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-11 02:49:42 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-01-11 02:35:45 +0000"
@@ -3993,6 +4013,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 02:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-11 02:49:42 +0000"
     },
     "done": true
   },
@@ -4182,6 +4208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-11 02:49:42 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/stalagnate_bowl_wart": {
     "criteria": {
       "has_nether_wart": "2025-01-11 02:02:05 +0000"
@@ -4257,6 +4289,12 @@
   "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-11 02:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-11 02:49:42 +0000"
     },
     "done": true
   },
@@ -4344,6 +4382,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-01-11 02:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-11 00:19:38 +0000"
@@ -4371,6 +4415,12 @@
   "betternether:recipes/misc/lapis_pile_to_lapis": {
     "criteria": {
       "has_lapis_pile": "2025-01-11 02:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-11 02:49:42 +0000"
     },
     "done": true
   },
@@ -4521,6 +4571,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 02:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-11 02:49:42 +0000"
     },
     "done": true
   },
