@@ -4683,5 +4683,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-11 21:36:01 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-01-11 21:36:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
