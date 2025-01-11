@@ -758,3 +758,366 @@
 [03:19:47] [Server thread/INFO]: [Not Secure] <XimenaRth> pero no me dijo su nombre
 [03:20:27] [Server thread/INFO]: [Not Secure] <XimenaRth> como gustes
 [03:20:28] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:21:09] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:21:09] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:21:12] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:21:12] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:21:12] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:21:12] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:21:12] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:21:12] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:21:17] [Server thread/INFO]: [Not Secure] <XimenaRth> JAJAJA UN NAUFRAGO
+[03:21:24] [Server thread/WARN]: Boat (vehicle of XimenaRth) moved wrongly! 0.6223503167984745
+[03:21:24] [Server thread/WARN]: Boat (vehicle of XimenaRth) moved wrongly! 0.6223503167984745
+[03:21:24] [Server thread/WARN]: Boat (vehicle of XimenaRth) moved wrongly! 0.6223503167984745
+[03:21:36] [Server thread/INFO]: Reloading!
+[03:21:36] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:21:36] [ForkJoinPool.commonPool-worker-4/ERROR]: Invalid path in mod resource-pack enchantment_lore: enchantment_lore:lang/no_no‌.json, ignoring
+[03:21:37] [Server thread/INFO]: Successfully modified loot table: 'minecraft:chests/bastion_treasure'
+[03:21:37] [Server thread/INFO]: [bclib] Disabling Recipe: bclib:test_star
+[03:21:37] [Server thread/ERROR]: Parsing error loading recipe betterend:guide_book
+com.google.gson.JsonSyntaxException: Unknown item 'betterend:guidebook'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_35228(class_1869.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:293) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29439(MinecraftServer.java:1345) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3097.method_29480(class_3097.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3097.method_13530(class_3097.java:53) ~[server-intermediary.jar:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar:?]
+	at net.minecraft.class_2170.redirect$zdk000$architectury$performCommand(class_2170.java:545) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(class_2170.java:287) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_44252(class_2170.java:280) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_13941(class_3176.java:299) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:284) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:21:37] [Server thread/INFO]: Loaded 13 recipes
+[03:21:38] [Server thread/INFO]: Loaded 4794 advancements
+[03:21:38] [Server thread/INFO]: Finished loading powers from data files. Registry contains 2608 powers.
+[03:21:38] [Server thread/INFO]: Finished loading origins from data files. Registry contains 133 origins.
+[03:21:38] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:21:38] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:21:38] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:21:38] [Server thread/INFO]: Finished loading origin layers from data files. Read 1 layers.
+[03:21:38] [Server thread/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
+[03:21:38] [ForkJoinPool.commonPool-worker-4/INFO]: Loaded 138 translation keys
+[03:21:38] [Server thread/INFO]: Loaded 0 global power sets.
+[03:21:41] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:21:41] [Server thread/INFO]: Finished reload on Thread[Server thread,5,main]
+[03:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4517ms or 90 ticks behind
+[03:21:53] [Server thread/INFO]: [Not Secure] <XimenaRth> :V
+[03:22:31] [Server thread/INFO]: [Not Secure] <XimenaRth> ya me sale el nombre de los biomas
+[03:22:32] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[03:22:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:22:45] [Server thread/INFO]: <--[HERE]
+[03:22:47] [Server thread/INFO]: [Not Secure] <XimenaRth> ala verga un templo
+[03:23:02] [Server thread/INFO]: [Not Secure] <XimenaRth> 576 -338
+[03:23:19] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-1, y=-56, z=26}
+[03:23:19] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-2, y=-56, z=26}
+[03:23:19] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=0, y=-56, z=26}
+[03:23:19] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=3, y=-53, z=19}
+[03:23:22] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=3, y=-53, z=18}
+[03:23:23] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[03:23:23] [Server thread/INFO]: ...w tellraw @a "anyways prueba a usar home o algo?"<--[HERE]
+[03:24:16] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:24:16] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:24:16] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:24:22] [Server thread/INFO]: [Not Secure] <XimenaRth> QUE LOBOS NEGROS
+[03:24:53] [Server thread/INFO]: [Not Secure] <XimenaRth> ESPERA
+[03:24:55] [Server thread/INFO]: [Not Secure] <XimenaRth> un wey
+[03:24:57] [Server thread/INFO]: M1sh4_uwu[/100.98.141.91:4605] logged in with entity id 149156 at (-207.69999998807907, 15.0, 565.3724036327916)
+[03:24:57] [Server thread/INFO]: Sending server config values to client
+[03:24:57] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:24:57] [Server thread/INFO]: M1sh4_uwu joined the game
+[03:24:58] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[03:24:59] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:24:59] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:24:59] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:24:59] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:24:59] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:24:59] [Server thread/INFO]: [voicechat] Received secret request of M1sh4_uwu (18)
+[03:24:59] [Server thread/INFO]: [voicechat] Sent secret to M1sh4_uwu
+[03:25:00] [Server thread/INFO]: [Not Secure] <XimenaRth> me puso ceguera
+[03:25:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cadcf311-69e4-3750-b603-fea575290293
+[03:25:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cadcf311-69e4-3750-b603-fea575290293
+[03:25:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player M1sh4_uwu (cadcf311-69e4-3750-b603-fea575290293) successfully connected to voice chat
+[03:25:11] [Server thread/INFO]: XimenaRth has made the advancement [World of illusion]
+[03:25:16] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> gg
+[03:25:38] [Server thread/INFO]: Made M1sh4_uwu a server operator
+[03:25:43] [Server thread/INFO]: [Not Secure] <XimenaRth> ahora tengo totem
+[03:25:44] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[03:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:26:43] [Server thread/INFO]: [M1sh4_uwu: Disabling data pack [file/vanillarefresh-v1.4.19h_1.20.x.zip (world)]]
+[03:26:43] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:26:43] [ForkJoinPool.commonPool-worker-5/ERROR]: Invalid path in mod resource-pack enchantment_lore: enchantment_lore:lang/no_no‌.json, ignoring
+[03:26:43] [Server thread/INFO]: Successfully modified loot table: 'minecraft:chests/bastion_treasure'
+[03:26:43] [Server thread/INFO]: [bclib] Disabling Recipe: bclib:test_star
+[03:26:43] [Server thread/ERROR]: Parsing error loading recipe betterend:guide_book
+com.google.gson.JsonSyntaxException: Unknown item 'betterend:guidebook'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_35228(class_1869.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:293) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29439(MinecraftServer.java:1345) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3097.method_29480(class_3097.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3027.method_13140(class_3027.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3027.method_13118(class_3027.java:93) ~[server-intermediary.jar:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar:?]
+	at net.minecraft.class_2170.redirect$zdk000$architectury$performCommand(class_2170.java:545) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(class_2170.java:287) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(class_3244.java:1341) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(class_3244.java:1321) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:26:43] [Server thread/INFO]: Loaded 13 recipes
+[03:26:44] [Server thread/INFO]: Loaded 4600 advancements
+[03:26:44] [Server thread/INFO]: Finished loading powers from data files. Registry contains 2608 powers.
+[03:26:44] [Server thread/INFO]: Finished loading origins from data files. Registry contains 133 origins.
+[03:26:44] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:26:44] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:26:44] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:26:44] [Server thread/INFO]: Finished loading origin layers from data files. Read 1 layers.
+[03:26:44] [Server thread/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
+[03:26:44] [ForkJoinPool.commonPool-worker-5/INFO]: Loaded 138 translation keys
+[03:26:44] [Server thread/INFO]: Loaded 0 global power sets.
+[03:26:44] [Server thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: vanilla_refresh:air, vanilla_refresh:all_wood_blocks, vanilla_refresh:block, vanilla_refresh:breaks_into/andesite, vanilla_refresh:breaks_into/any, vanilla_refresh:breaks_into/blackstone, vanilla_refresh:breaks_into/brick2, vanilla_refresh:breaks_into/brick4, vanilla_refresh:breaks_into/bricks, vanilla_refresh:breaks_into/cobbled_deepslate, vanilla_refresh:breaks_into/cobblestone, vanilla_refresh:breaks_into/dark_prismarine, vanilla_refresh:breaks_into/diorite, vanilla_refresh:breaks_into/granite, vanilla_refresh:breaks_into/log/acacia, vanilla_refresh:breaks_into/log/birch, vanilla_refresh:breaks_into/log/cherry, vanilla_refresh:breaks_into/log/crimson, vanilla_refresh:breaks_into/log/dark_oak, vanilla_refresh:breaks_into/log/jungle, vanilla_refresh:breaks_into/log/mangrove, vanilla_refresh:breaks_into/log/oak, vanilla_refresh:breaks_into/log/spruce, vanilla_refresh:breaks_into/log/warped, vanilla_refresh:breaks_into/mud, vanilla_refresh:breaks_into/nether_brick2, vanilla_refresh:breaks_into/nether_brick4, vanilla_refresh:breaks_into/nether_bricks, vanilla_refresh:breaks_into/ore/coal, vanilla_refresh:breaks_into/ore/copper, vanilla_refresh:breaks_into/ore/diamond, vanilla_refresh:breaks_into/ore/emerald, vanilla_refresh:breaks_into/ore/gold, vanilla_refresh:breaks_into/ore/iron, vanilla_refresh:breaks_into/ore/lapis_lazuli, vanilla_refresh:breaks_into/ore/netherite, vanilla_refresh:breaks_into/ore/redstone, vanilla_refresh:breaks_into/packed_mud, vanilla_refresh:breaks_into/prismarine, vanilla_refresh:breaks_into/prismarine_bricks, vanilla_refresh:breaks_into/quartz2, vanilla_refresh:breaks_into/quartz4, vanilla_refresh:breaks_into/quartz_block, vanilla_refresh:breaks_into/red_sand4, vanilla_refresh:breaks_into/red_sandstone, vanilla_refresh:breaks_into/sand4, vanilla_refresh:breaks_into/sandstone, vanilla_refresh:breaks_into/slab/andesite, vanilla_refresh:breaks_into/slab/bamboo, vanilla_refresh:breaks_into/slab/blackstone, vanilla_refresh:breaks_into/slab/bricks, vanilla_refresh:breaks_into/slab/cobbled_deepslate, vanilla_refresh:breaks_into/slab/cobblestone, vanilla_refresh:breaks_into/slab/dark_prismarine, vanilla_refresh:breaks_into/slab/diorite, vanilla_refresh:breaks_into/slab/granite, vanilla_refresh:breaks_into/slab/nether_bricks, vanilla_refresh:breaks_into/slab/packed_mud, vanilla_refresh:breaks_into/slab/prismarine, vanilla_refresh:breaks_into/slab/prismarine_bricks, vanilla_refresh:breaks_into/slab/quartz_block, vanilla_refresh:breaks_into/slab/red_sandstone, vanilla_refresh:breaks_into/slab/sandstone, vanilla_refresh:breaks_into/slab/stone, vanilla_refresh:breaks_into/stone, vanilla_refresh:cake, vanilla_refresh:can_be_powered, vanilla_refresh:command_block, vanilla_refresh:crops, vanilla_refresh:fence_gates, vanilla_refresh:froglights, vanilla_refresh:glass, vanilla_refresh:glass_blocks, vanilla_refresh:gravestone_permeable, vanilla_refresh:gravestone_replaceable, vanilla_refresh:hot, vanilla_refresh:permeable, vanilla_refresh:tree_blocks, vanilla_refresh:vegetation_blocks, vanilla_refresh:water
+[03:26:44] [Server thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: vanilla_refresh:air, vanilla_refresh:armor, vanilla_refresh:banner, vanilla_refresh:cave_blocks, vanilla_refresh:crops, vanilla_refresh:dark, vanilla_refresh:deepslate_bricks, vanilla_refresh:discs, vanilla_refresh:end_blocks, vanilla_refresh:fence_gates, vanilla_refresh:froglights, vanilla_refresh:glass, vanilla_refresh:glass_blocks, vanilla_refresh:good_try, vanilla_refresh:headpiece, vanilla_refresh:illager_raiders, vanilla_refresh:light_emit, vanilla_refresh:mineable/axe, vanilla_refresh:mineable/hoe, vanilla_refresh:mineable/pickaxe, vanilla_refresh:mineable/shovel, vanilla_refresh:night_mobs, vanilla_refresh:ocean_blocks, vanilla_refresh:ores, vanilla_refresh:permeable, vanilla_refresh:red_blocks, vanilla_refresh:special_equipable, vanilla_refresh:splatus_favorites, vanilla_refresh:stone_bricks, vanilla_refresh:sword, vanilla_refresh:tree_blocks, vanilla_refresh:unobtainable, vanilla_refresh:vegetation_blocks
+[03:26:44] [Server thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: vanilla_refresh:baby_monster, vanilla_refresh:boss_mobs, vanilla_refresh:cannot_be_silenced, vanilla_refresh:illager_raiders, vanilla_refresh:item_frames, vanilla_refresh:misc, vanilla_refresh:misc_brush, vanilla_refresh:misc_spyglass, vanilla_refresh:night_mobs_all, vanilla_refresh:night_mobs_generic, vanilla_refresh:night_mobs_skip_zombie_villager, vanilla_refresh:not_health_readable, vanilla_refresh:not_ouchable, vanilla_refresh:small, vanilla_refresh:tnt, vanilla_refresh:useable_invis
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:player/end_teleport' in progress file ./tm2/advancements/cadcf311-69e4-3750-b603-fea575290293.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:location/the_nether' in progress file ./tm2/advancements/cadcf311-69e4-3750-b603-fea575290293.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:player/tick' in progress file ./tm2/advancements/cadcf311-69e4-3750-b603-fea575290293.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:biome/nether/warped_forest' in progress file ./tm2/advancements/cadcf311-69e4-3750-b603-fea575290293.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:player/end_teleport' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:player/tick' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:biome/ocean' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:biome/birch_forest' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:biome/old_growth_taiga' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:biome/forest' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:26:46] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:player/hurt' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:26:46] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[03:26:47] [Server thread/INFO]: Finished reload on Thread[Server thread,5,main]
+[03:26:53] [Server thread/INFO]: [M1sh4_uwu: Enabling data pack [file/vanillarefresh-v1.4.19h_1.20.x.zip (world)]]
+[03:26:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:26:53] [ForkJoinPool.commonPool-worker-5/ERROR]: Invalid path in mod resource-pack enchantment_lore: enchantment_lore:lang/no_no‌.json, ignoring
+[03:26:54] [Server thread/INFO]: Successfully modified loot table: 'minecraft:chests/bastion_treasure'
+[03:26:54] [Server thread/INFO]: [bclib] Disabling Recipe: bclib:test_star
+[03:26:54] [Server thread/ERROR]: Parsing error loading recipe betterend:guide_book
+com.google.gson.JsonSyntaxException: Unknown item 'betterend:guidebook'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_35228(class_1869.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:293) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29439(MinecraftServer.java:1345) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3097.method_29480(class_3097.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3027.method_13114(class_3027.java:118) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3027.method_13116(class_3027.java:61) ~[server-intermediary.jar:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar:?]
+	at net.minecraft.class_2170.redirect$zdk000$architectury$performCommand(class_2170.java:545) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(class_2170.java:287) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(class_3244.java:1341) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(class_3244.java:1321) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:26:54] [Server thread/INFO]: Loaded 13 recipes
+[03:26:54] [Server thread/INFO]: Loaded 4794 advancements
+[03:26:54] [Server thread/INFO]: Finished loading powers from data files. Registry contains 2608 powers.
+[03:26:54] [Server thread/INFO]: Finished loading origins from data files. Registry contains 133 origins.
+[03:26:54] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:26:54] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:26:54] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:26:54] [Server thread/INFO]: Finished loading origin layers from data files. Read 1 layers.
+[03:26:54] [Server thread/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
+[03:26:54] [ForkJoinPool.commonPool-worker-5/INFO]: Loaded 138 translation keys
+[03:26:54] [Server thread/INFO]: Loaded 0 global power sets.
+[03:26:57] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:26:57] [Server thread/INFO]: Finished reload on Thread[Server thread,5,main]
+[03:27:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4107ms or 82 ticks behind
+[03:27:22] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> creo que este no era
+[03:27:23] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> :v
+[03:27:27] [Server thread/INFO]: [Not Secure] <XimenaRth> no :v
+[03:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:28:19] [Server thread/INFO]: [M1sh4_uwu: Disabling data pack [file/vanillarefresh-v1.4.19h_1.20.x.zip (world)]]
+[03:28:19] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:28:19] [ForkJoinPool.commonPool-worker-6/ERROR]: Invalid path in mod resource-pack enchantment_lore: enchantment_lore:lang/no_no‌.json, ignoring
+[03:28:20] [Server thread/INFO]: Successfully modified loot table: 'minecraft:chests/bastion_treasure'
+[03:28:20] [Server thread/INFO]: [bclib] Disabling Recipe: bclib:test_star
+[03:28:20] [Server thread/ERROR]: Parsing error loading recipe betterend:guide_book
+com.google.gson.JsonSyntaxException: Unknown item 'betterend:guidebook'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_35228(class_1869.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:293) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29439(MinecraftServer.java:1345) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3097.method_29480(class_3097.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3027.method_13140(class_3027.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3027.method_13118(class_3027.java:93) ~[server-intermediary.jar:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar:?]
+	at net.minecraft.class_2170.redirect$zdk000$architectury$performCommand(class_2170.java:545) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(class_2170.java:287) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(class_3244.java:1341) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(class_3244.java:1321) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:28:20] [Server thread/INFO]: Loaded 13 recipes
+[03:28:20] [Server thread/INFO]: Loaded 4600 advancements
+[03:28:20] [Server thread/INFO]: Finished loading powers from data files. Registry contains 2608 powers.
+[03:28:20] [Server thread/INFO]: Finished loading origins from data files. Registry contains 133 origins.
+[03:28:20] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:28:20] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:28:20] [Server thread/INFO]: Trying to read layer file: origins:origin
+[03:28:20] [Server thread/INFO]: Finished loading origin layers from data files. Read 1 layers.
+[03:28:20] [Server thread/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
+[03:28:20] [ForkJoinPool.commonPool-worker-6/INFO]: Loaded 138 translation keys
+[03:28:20] [Server thread/INFO]: Loaded 0 global power sets.
+[03:28:20] [Server thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: vanilla_refresh:air, vanilla_refresh:all_wood_blocks, vanilla_refresh:block, vanilla_refresh:breaks_into/andesite, vanilla_refresh:breaks_into/any, vanilla_refresh:breaks_into/blackstone, vanilla_refresh:breaks_into/brick2, vanilla_refresh:breaks_into/brick4, vanilla_refresh:breaks_into/bricks, vanilla_refresh:breaks_into/cobbled_deepslate, vanilla_refresh:breaks_into/cobblestone, vanilla_refresh:breaks_into/dark_prismarine, vanilla_refresh:breaks_into/diorite, vanilla_refresh:breaks_into/granite, vanilla_refresh:breaks_into/log/acacia, vanilla_refresh:breaks_into/log/birch, vanilla_refresh:breaks_into/log/cherry, vanilla_refresh:breaks_into/log/crimson, vanilla_refresh:breaks_into/log/dark_oak, vanilla_refresh:breaks_into/log/jungle, vanilla_refresh:breaks_into/log/mangrove, vanilla_refresh:breaks_into/log/oak, vanilla_refresh:breaks_into/log/spruce, vanilla_refresh:breaks_into/log/warped, vanilla_refresh:breaks_into/mud, vanilla_refresh:breaks_into/nether_brick2, vanilla_refresh:breaks_into/nether_brick4, vanilla_refresh:breaks_into/nether_bricks, vanilla_refresh:breaks_into/ore/coal, vanilla_refresh:breaks_into/ore/copper, vanilla_refresh:breaks_into/ore/diamond, vanilla_refresh:breaks_into/ore/emerald, vanilla_refresh:breaks_into/ore/gold, vanilla_refresh:breaks_into/ore/iron, vanilla_refresh:breaks_into/ore/lapis_lazuli, vanilla_refresh:breaks_into/ore/netherite, vanilla_refresh:breaks_into/ore/redstone, vanilla_refresh:breaks_into/packed_mud, vanilla_refresh:breaks_into/prismarine, vanilla_refresh:breaks_into/prismarine_bricks, vanilla_refresh:breaks_into/quartz2, vanilla_refresh:breaks_into/quartz4, vanilla_refresh:breaks_into/quartz_block, vanilla_refresh:breaks_into/red_sand4, vanilla_refresh:breaks_into/red_sandstone, vanilla_refresh:breaks_into/sand4, vanilla_refresh:breaks_into/sandstone, vanilla_refresh:breaks_into/slab/andesite, vanilla_refresh:breaks_into/slab/bamboo, vanilla_refresh:breaks_into/slab/blackstone, vanilla_refresh:breaks_into/slab/bricks, vanilla_refresh:breaks_into/slab/cobbled_deepslate, vanilla_refresh:breaks_into/slab/cobblestone, vanilla_refresh:breaks_into/slab/dark_prismarine, vanilla_refresh:breaks_into/slab/diorite, vanilla_refresh:breaks_into/slab/granite, vanilla_refresh:breaks_into/slab/nether_bricks, vanilla_refresh:breaks_into/slab/packed_mud, vanilla_refresh:breaks_into/slab/prismarine, vanilla_refresh:breaks_into/slab/prismarine_bricks, vanilla_refresh:breaks_into/slab/quartz_block, vanilla_refresh:breaks_into/slab/red_sandstone, vanilla_refresh:breaks_into/slab/sandstone, vanilla_refresh:breaks_into/slab/stone, vanilla_refresh:breaks_into/stone, vanilla_refresh:cake, vanilla_refresh:can_be_powered, vanilla_refresh:command_block, vanilla_refresh:crops, vanilla_refresh:fence_gates, vanilla_refresh:froglights, vanilla_refresh:glass, vanilla_refresh:glass_blocks, vanilla_refresh:gravestone_permeable, vanilla_refresh:gravestone_replaceable, vanilla_refresh:hot, vanilla_refresh:permeable, vanilla_refresh:tree_blocks, vanilla_refresh:vegetation_blocks, vanilla_refresh:water
+[03:28:20] [Server thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: vanilla_refresh:air, vanilla_refresh:armor, vanilla_refresh:banner, vanilla_refresh:cave_blocks, vanilla_refresh:crops, vanilla_refresh:dark, vanilla_refresh:deepslate_bricks, vanilla_refresh:discs, vanilla_refresh:end_blocks, vanilla_refresh:fence_gates, vanilla_refresh:froglights, vanilla_refresh:glass, vanilla_refresh:glass_blocks, vanilla_refresh:good_try, vanilla_refresh:headpiece, vanilla_refresh:illager_raiders, vanilla_refresh:light_emit, vanilla_refresh:mineable/axe, vanilla_refresh:mineable/hoe, vanilla_refresh:mineable/pickaxe, vanilla_refresh:mineable/shovel, vanilla_refresh:night_mobs, vanilla_refresh:ocean_blocks, vanilla_refresh:ores, vanilla_refresh:permeable, vanilla_refresh:red_blocks, vanilla_refresh:special_equipable, vanilla_refresh:splatus_favorites, vanilla_refresh:stone_bricks, vanilla_refresh:sword, vanilla_refresh:tree_blocks, vanilla_refresh:unobtainable, vanilla_refresh:vegetation_blocks
+[03:28:20] [Server thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: vanilla_refresh:baby_monster, vanilla_refresh:boss_mobs, vanilla_refresh:cannot_be_silenced, vanilla_refresh:illager_raiders, vanilla_refresh:item_frames, vanilla_refresh:misc, vanilla_refresh:misc_brush, vanilla_refresh:misc_spyglass, vanilla_refresh:night_mobs_all, vanilla_refresh:night_mobs_generic, vanilla_refresh:night_mobs_skip_zombie_villager, vanilla_refresh:not_health_readable, vanilla_refresh:not_ouchable, vanilla_refresh:small, vanilla_refresh:tnt, vanilla_refresh:useable_invis
+[03:28:23] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:player/end_teleport' in progress file ./tm2/advancements/cadcf311-69e4-3750-b603-fea575290293.json - it doesn't exist anymore?
+[03:28:23] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:location/the_nether' in progress file ./tm2/advancements/cadcf311-69e4-3750-b603-fea575290293.json - it doesn't exist anymore?
+[03:28:23] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:player/tick' in progress file ./tm2/advancements/cadcf311-69e4-3750-b603-fea575290293.json - it doesn't exist anymore?
+[03:28:23] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:biome/nether/warped_forest' in progress file ./tm2/advancements/cadcf311-69e4-3750-b603-fea575290293.json - it doesn't exist anymore?
+[03:28:23] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:player/end_teleport' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:28:23] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:player/tick' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:28:23] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:biome/old_growth_taiga' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:28:23] [Server thread/WARN]: Ignored advancement 'vanilla_refresh:biome/forest' in progress file ./tm2/advancements/bdc812d8-98fa-3daf-b652-370ac15e60da.json - it doesn't exist anymore?
+[03:28:23] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5623ms or 112 ticks behind
+[03:28:23] [Server thread/INFO]: Finished reload on Thread[Server thread,5,main]
+[03:28:43] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> voy a reiniciar el server x
+[03:28:44] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> d
+[03:28:56] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[03:28:57] [Server thread/INFO]: [Not Secure] <XimenaRth> ok
+[03:28:59] [Server thread/INFO]: M1sh4_uwu lost connection: Disconnected
+[03:28:59] [Server thread/INFO]: M1sh4_uwu left the game
+[03:28:59] [Server thread/INFO]: [voicechat] Disconnecting client M1sh4_uwu
+[03:29:00] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[03:29:00] [Server thread/INFO]: XimenaRth left the game
+[03:29:00] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
