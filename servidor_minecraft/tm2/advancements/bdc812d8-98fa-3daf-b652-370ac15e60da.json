@@ -4360,15 +4360,63 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4390,6 +4438,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_shingle_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4399,6 +4453,12 @@
   "wilderwild:recipes/food/cooked_crab_claw_from_smoking": {
     "criteria": {
       "has_crab_claw": "2025-01-11 02:48:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4417,6 +4477,12 @@
   "stoneworks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4450,9 +4516,27 @@
     },
     "done": true
   },
+  "geodes:recipes/building_blocks/calcite_stairs": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4480,6 +4564,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4492,15 +4582,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "wilderwild:recipes/misc/string_from_cattail": {
     "criteria": {
       "has_cattail": "2025-01-11 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "geodes:recipes/building_blocks/calcite_stairs_from_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4522,9 +4642,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-11 03:13:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plate_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "geodes:recipes/building_blocks/calcite_slab_from_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4534,15 +4684,39 @@
     },
     "done": true
   },
+  "geodes:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4558,6 +4732,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4567,6 +4747,12 @@
   "wilderwild:recipes/building_blocks/baobab_planks": {
     "criteria": {
       "has_logs": "2025-01-11 02:51:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4588,6 +4774,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "wilderwild:recipes/food/cooked_crab_claw": {
     "criteria": {
       "has_crab_claw": "2025-01-11 02:48:18 +0000"
@@ -4606,15 +4798,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_paver_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "geodes:recipes/building_blocks/calcite_wall": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4630,15 +4852,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-01-11 03:03:20 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_plate_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template": {
+    "criteria": {
+      "has_nihility_armor_trim_smithing_template": "2025-01-11 03:11:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4651,6 +4897,12 @@
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4672,6 +4924,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4690,9 +4948,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-01-11 03:04:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
     },
     "done": true
   },
@@ -4702,9 +4978,21 @@
     },
     "done": true
   },
+  "geodes:recipes/building_blocks/calcite_wall_from_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-01-11 03:03:30 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-11 03:11:05 +0000"
     },
     "done": true
   },
@@ -4726,6 +5014,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-01-11 03:09:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4735,6 +5029,12 @@
   "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-11 03:13:57 +0000"
     },
     "done": true
   },
