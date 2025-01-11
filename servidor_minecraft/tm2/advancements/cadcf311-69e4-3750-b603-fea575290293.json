@@ -3039,7 +3039,10 @@
     "criteria": {
       "betternether:wart_forest_edge": "2025-01-11 02:01:12 +0000",
       "betternether:gravel_desert": "2025-01-10 20:59:02 +0000",
+      "betternether:old_fungiwoods": "2025-01-11 02:39:32 +0000",
       "betternether:nether_swampland": "2025-01-11 02:01:01 +0000",
+      "betternether:nether_mushroom_forest_edge": "2025-01-11 02:39:30 +0000",
+      "betternether:nether_mushroom_forest": "2025-01-11 02:41:05 +0000",
       "betternether:wart_forest": "2025-01-11 02:01:13 +0000",
       "betternether:soul_plain": "2025-01-11 02:01:43 +0000"
     },
@@ -3777,6 +3780,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-01-11 02:44:07 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blue_dye_from_blueberries": {
     "criteria": {
       "has_blueberry": "2025-01-11 01:07:47 +0000"
@@ -4035,6 +4044,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-01-11 02:44:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-11 02:35:45 +0000"
@@ -4290,6 +4305,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-11 02:23:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-01-11 02:44:07 +0000"
     },
     "done": true
   },
