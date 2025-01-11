@@ -884,3 +884,133 @@ BCLib - The End  BiomeSource (3c2c7619)
 [20:43:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cadcf311-69e4-3750-b603-fea575290293
 [20:43:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cadcf311-69e4-3750-b603-fea575290293
 [20:43:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player M1sh4_uwu (cadcf311-69e4-3750-b603-fea575290293) successfully connected to voice chat
+[20:57:10] [Server thread/INFO]: M1sh4_uwu lost connection: Disconnected
+[20:57:10] [Server thread/INFO]: M1sh4_uwu left the game
+[20:57:10] [Server thread/INFO]: [voicechat] Disconnecting client M1sh4_uwu
+[20:57:15] [Server thread/INFO]: M1sh4_uwu[/100.98.141.91:46953] logged in with entity id 8443 at (39.48750001192093, 72.0, 63.899833521547585)
+[20:57:15] [Server thread/INFO]: Sending server config values to client
+[20:57:15] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:57:15] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'cadcf311-69e4-3750-b603-fea575290293'.
+[20:57:15] [Server thread/INFO]: M1sh4_uwu joined the game
+[20:57:15] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'cadcf311-69e4-3750-b603-fea575290293'.
+[20:57:15] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[20:57:15] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[20:57:15] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[20:57:15] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[20:57:15] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[20:57:15] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[20:57:15] [Server thread/INFO]: [voicechat] Received secret request of M1sh4_uwu (18)
+[20:57:15] [Server thread/INFO]: [voicechat] Sent secret to M1sh4_uwu
+[20:57:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cadcf311-69e4-3750-b603-fea575290293
+[20:57:22] [Server thread/INFO]: M1sh4_uwu lost connection: Disconnected
+[20:57:22] [Server thread/INFO]: M1sh4_uwu left the game
+[20:57:22] [Server thread/INFO]: [voicechat] Disconnecting client M1sh4_uwu
+[20:57:31] [Server thread/INFO]: M1sh4_uwu[/100.98.141.91:46958] logged in with entity id 8470 at (39.48750001192093, 72.0, 63.899833521547585)
+[20:57:31] [Server thread/INFO]: Sending server config values to client
+[20:57:31] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:57:31] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'cadcf311-69e4-3750-b603-fea575290293'.
+[20:57:31] [Server thread/INFO]: M1sh4_uwu joined the game
+[20:57:31] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'cadcf311-69e4-3750-b603-fea575290293'.
+[20:57:31] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[20:57:31] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[20:57:31] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[20:57:31] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[20:57:31] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[20:57:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[20:57:31] [Server thread/INFO]: [voicechat] Received secret request of M1sh4_uwu (18)
+[20:57:31] [Server thread/INFO]: [voicechat] Sent secret to M1sh4_uwu
+[20:57:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cadcf311-69e4-3750-b603-fea575290293
+[20:57:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cadcf311-69e4-3750-b603-fea575290293
+[20:57:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player M1sh4_uwu (cadcf311-69e4-3750-b603-fea575290293) successfully connected to voice chat
+[20:58:46] [Server thread/INFO]: M1sh4_uwu lost connection: Disconnected
+[20:58:46] [Server thread/INFO]: M1sh4_uwu left the game
+[20:58:46] [Server thread/INFO]: [voicechat] Disconnecting client M1sh4_uwu
+[20:58:56] [Server thread/INFO]: M1sh4_uwu[/100.98.141.91:46961] logged in with entity id 8752 at (40.5, 78.5625, 61.5)
+[20:58:56] [Server thread/INFO]: Sending server config values to client
+[20:58:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:58:56] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'cadcf311-69e4-3750-b603-fea575290293'.
+[20:58:56] [Server thread/INFO]: M1sh4_uwu joined the game
+[20:58:56] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'cadcf311-69e4-3750-b603-fea575290293'.
+[20:58:56] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[20:58:56] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[20:58:56] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[20:58:56] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[20:58:56] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[20:58:56] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[20:58:56] [Server thread/INFO]: [voicechat] Received secret request of M1sh4_uwu (18)
+[20:58:56] [Server thread/INFO]: [voicechat] Sent secret to M1sh4_uwu
+[20:59:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cadcf311-69e4-3750-b603-fea575290293
+[20:59:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cadcf311-69e4-3750-b603-fea575290293
+[20:59:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player M1sh4_uwu (cadcf311-69e4-3750-b603-fea575290293) successfully connected to voice chat
+[20:59:34] [Server thread/INFO]: M1sh4_uwu lost connection: Disconnected
+[20:59:34] [Server thread/INFO]: M1sh4_uwu left the game
+[20:59:34] [Server thread/INFO]: [voicechat] Disconnecting client M1sh4_uwu
+[20:59:50] [Server thread/INFO]: M1sh4_uwu[/100.98.141.91:46964] logged in with entity id 8843 at (40.97398638864554, 72.0, 42.8119762236834)
+[20:59:50] [Server thread/INFO]: Sending server config values to client
+[20:59:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:59:50] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'cadcf311-69e4-3750-b603-fea575290293'.
+[20:59:50] [Server thread/INFO]: M1sh4_uwu joined the game
+[20:59:50] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'cadcf311-69e4-3750-b603-fea575290293'.
+[20:59:50] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[20:59:50] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[20:59:50] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[20:59:50] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[20:59:50] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[20:59:50] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[20:59:50] [Server thread/INFO]: [voicechat] Received secret request of M1sh4_uwu (18)
+[20:59:50] [Server thread/INFO]: [voicechat] Sent secret to M1sh4_uwu
+[21:00:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cadcf311-69e4-3750-b603-fea575290293
+[21:00:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cadcf311-69e4-3750-b603-fea575290293
+[21:00:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player M1sh4_uwu (cadcf311-69e4-3750-b603-fea575290293) successfully connected to voice chat
