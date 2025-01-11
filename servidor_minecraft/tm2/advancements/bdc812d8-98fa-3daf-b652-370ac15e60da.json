@@ -3641,6 +3641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-10 21:35:40 +0000"
@@ -3668,6 +3674,12 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-01-10 23:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
     },
     "done": true
   },
@@ -3701,9 +3713,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "wilderwild:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-10 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
     },
     "done": true
   },
@@ -3821,6 +3851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-11 00:02:01 +0000"
@@ -3857,6 +3893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-10 21:10:17 +0000"
@@ -3884,6 +3926,12 @@
   "wilderwild:recipes/tools/recorder_copper_horn": {
     "criteria": {
       "has_horn": "2025-01-10 21:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
     },
     "done": true
   },
@@ -3965,6 +4013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-10 21:10:17 +0000"
@@ -3974,6 +4028,24 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-10 21:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-11 01:46:44 +0000"
     },
     "done": true
   },
@@ -4031,6 +4103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-10 23:02:20 +0000"
@@ -4067,6 +4145,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/chest_boat": {
     "criteria": {
       "has_boat": "2025-01-10 21:20:32 +0000"
@@ -4079,9 +4169,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "wilderwild:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-10 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
     },
     "done": true
   },
@@ -4103,6 +4205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-10 20:59:44 +0000"
@@ -4112,6 +4220,12 @@
   "wilderwild:recipes/tools/sax_copper_horn": {
     "criteria": {
       "has_horn": "2025-01-10 21:46:46 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/building_blocks/sandstone_from_scorched_sand": {
+    "criteria": {
+      "has_sand": "2025-01-11 01:46:44 +0000"
     },
     "done": true
   },
@@ -4133,15 +4247,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-10 21:10:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 01:54:47 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-10 21:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-11 01:46:44 +0000"
     },
     "done": true
   },
