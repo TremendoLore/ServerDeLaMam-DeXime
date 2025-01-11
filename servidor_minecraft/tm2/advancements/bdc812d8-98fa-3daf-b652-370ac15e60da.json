@@ -5062,5 +5062,167 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_framed_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/misc/dye_purple_firefly_bottle": {
+    "criteria": {
+      "has_needed_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stripes_to_leather": {
+    "criteria": {
+      "has_leather_stripe": "2025-01-11 03:43:59 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:used_bomb_item": {
+    "criteria": {
+      "criteria": "2025-01-11 03:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-11 03:50:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-11 03:50:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-11 03:50:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_sword_handle": {
+    "criteria": {
+      "has_item.betterend.leather_wrapped_stick": "2025-01-11 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-11 03:50:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/misc/purple_firefly_bottle": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "geodes:adventure/outrageous": {
+    "criteria": {
+      "collect_emerald_geode": "2025-01-11 03:49:14 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/quartz_glass_purple": {
+    "criteria": {
+      "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-11 03:50:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-11 03:50:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
