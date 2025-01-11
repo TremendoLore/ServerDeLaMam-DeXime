@@ -3039,6 +3039,7 @@
     "criteria": {
       "betternether:wart_forest_edge": "2025-01-11 02:01:12 +0000",
       "betternether:gravel_desert": "2025-01-10 20:59:02 +0000",
+      "betternether:flooded_deltas": "2025-01-11 23:21:27 +0000",
       "betternether:old_fungiwoods": "2025-01-11 02:39:32 +0000",
       "betternether:nether_swampland": "2025-01-11 02:01:01 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-01-11 02:39:30 +0000",
@@ -4812,6 +4813,78 @@
   "betternether:recipes/tools/cincinnasite_shears": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-01-11 22:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-11 22:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-11 22:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-11 22:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-11 22:32:57 +0000"
+    },
+    "done": true
+  },
+  "geodes:recipes/building_blocks/quartz_crystal_block": {
+    "criteria": {
+      "has_quartz": "2025-01-11 22:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-11 22:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-11 22:32:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-01-11 22:32:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-01-11 22:34:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-01-11 22:34:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-01-11 22:34:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-01-11 22:34:50 +0000"
     },
     "done": true
   },
