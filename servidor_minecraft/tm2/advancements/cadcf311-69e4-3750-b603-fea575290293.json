@@ -2527,6 +2527,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-10 05:19:28 +0000",
       "minecraft:skeleton": "2025-01-11 00:18:29 +0000",
+      "minecraft:spider": "2025-01-11 01:01:54 +0000",
       "minecraft:creeper": "2025-01-11 00:23:46 +0000",
       "minecraft:zombie": "2025-01-11 00:20:10 +0000"
     },
@@ -3576,6 +3577,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-11 01:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-11 01:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-01-11 00:43:53 +0000"
@@ -3600,6 +3613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-11 01:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-01-10 23:19:28 +0000"
@@ -3609,6 +3628,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-11 00:43:33 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blue_dye_from_blueberries": {
+    "criteria": {
+      "has_blueberry": "2025-01-11 01:07:47 +0000"
     },
     "done": true
   },
@@ -3624,6 +3649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-11 01:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-11 00:01:02 +0000"
@@ -3636,9 +3667,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-11 01:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-01-11 00:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-11 01:02:51 +0000"
     },
     "done": true
   },
@@ -3654,9 +3697,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-11 01:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-11 01:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-01-10 23:55:55 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-01-11 01:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-11 01:02:48 +0000"
     },
     "done": true
   },
@@ -3672,9 +3739,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-11 01:02:51 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_01": "2025-01-10 22:27:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-01-11 01:02:51 +0000"
     },
     "done": true
   },
@@ -3708,6 +3787,12 @@
     },
     "done": true
   },
+  "dehydration:leather_recipes": {
+    "criteria": {
+      "got_the_leather_for_dehydration": "2025-01-11 01:02:51 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:husbandry/beehive": {
     "criteria": {
       "beehive": "2025-01-11 00:42:42 +0000"
@@ -3726,6 +3811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-11 01:21:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/dragon_bone_block": {
     "criteria": {
       "has_bone_block": "2025-01-10 22:27:54 +0000"
@@ -3741,6 +3832,12 @@
   "betternether:recipes/building_blocks/bn_bone_block": {
     "criteria": {
       "has_bone_block": "2025-01-10 22:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-11 01:02:48 +0000"
     },
     "done": true
   },
