@@ -1014,3 +1014,4 @@ BCLib - The End  BiomeSource (3c2c7619)
 [21:00:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cadcf311-69e4-3750-b603-fea575290293
 [21:00:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cadcf311-69e4-3750-b603-fea575290293
 [21:00:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player M1sh4_uwu (cadcf311-69e4-3750-b603-fea575290293) successfully connected to voice chat
+[21:05:42] [Server thread/INFO]: Villager class_1646['Librarian'/113, l='ServerLevel[tm2]', x=73.12, y=57.88, z=94.47] died, message: 'Librarian burned to death'
