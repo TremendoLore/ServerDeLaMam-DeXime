@@ -3927,6 +3927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-11 00:41:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-10 21:10:17 +0000"
@@ -4106,6 +4112,12 @@
       "has_chain": "2025-01-10 21:10:17 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2025-01-11 00:41:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
