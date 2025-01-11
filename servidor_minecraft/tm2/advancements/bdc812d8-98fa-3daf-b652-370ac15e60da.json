@@ -1896,6 +1896,7 @@
       "minecraft:spider": "2025-01-10 06:40:56 +0000",
       "minecraft:creeper": "2025-01-10 22:57:48 +0000",
       "minecraft:zombified_piglin": "2025-01-10 22:51:48 +0000",
+      "minecraft:husk": "2025-01-11 03:00:39 +0000",
       "minecraft:cave_spider": "2025-01-11 00:21:15 +0000",
       "minecraft:zombie": "2025-01-10 06:26:45 +0000",
       "minecraft:drowned": "2025-01-11 02:47:50 +0000"
@@ -4371,6 +4372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-11 03:03:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_shingles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4392,6 +4399,12 @@
   "wilderwild:recipes/food/cooked_crab_claw_from_smoking": {
     "criteria": {
       "has_crab_claw": "2025-01-11 02:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-11 03:03:20 +0000"
     },
     "done": true
   },
@@ -4419,6 +4432,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-11 03:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-11 03:03:30 +0000"
+    },
+    "done": true
+  },
   "wilderwild:recipes/building_blocks/baobab_wood": {
     "criteria": {
       "has_log": "2025-01-11 02:51:47 +0000"
@@ -4440,6 +4465,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-11 03:04:30 +0000"
     },
     "done": true
   },
@@ -4563,6 +4594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-11 03:03:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4593,9 +4630,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-11 03:03:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-11 03:04:30 +0000"
     },
     "done": true
   },
@@ -4617,6 +4666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-11 03:03:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
@@ -4635,15 +4690,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-11 03:04:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plate_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-11 03:03:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-11 03:03:20 +0000"
     },
     "done": true
   },
@@ -4662,6 +4735,12 @@
   "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-11 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-11 03:04:30 +0000"
     },
     "done": true
   },
