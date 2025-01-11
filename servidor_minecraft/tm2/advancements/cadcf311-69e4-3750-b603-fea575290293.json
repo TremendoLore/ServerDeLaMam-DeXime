@@ -2524,7 +2524,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2025-01-10 05:19:28 +0000"
+      "minecraft:pillager": "2025-01-10 05:19:28 +0000",
+      "minecraft:skeleton": "2025-01-11 00:18:29 +0000",
+      "minecraft:creeper": "2025-01-11 00:23:46 +0000",
+      "minecraft:zombie": "2025-01-11 00:20:10 +0000"
     },
     "done": false
   },
@@ -3572,6 +3575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-11 00:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-01-10 22:27:53 +0000"
@@ -3620,6 +3629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-11 00:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-01-10 23:55:55 +0000"
@@ -3638,6 +3653,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-11 00:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-01-11 00:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-10 22:27:55 +0000"
@@ -3647,6 +3674,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-10 22:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-11 00:19:38 +0000"
     },
     "done": true
   },

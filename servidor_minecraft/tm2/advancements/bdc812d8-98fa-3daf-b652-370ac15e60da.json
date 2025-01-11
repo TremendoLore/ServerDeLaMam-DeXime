@@ -1888,6 +1888,7 @@
       "minecraft:spider": "2025-01-10 06:40:56 +0000",
       "minecraft:creeper": "2025-01-10 22:57:48 +0000",
       "minecraft:zombified_piglin": "2025-01-10 22:51:48 +0000",
+      "minecraft:cave_spider": "2025-01-11 00:21:15 +0000",
       "minecraft:zombie": "2025-01-10 06:26:45 +0000"
     },
     "done": false
@@ -3869,6 +3870,12 @@
   "wilderwild:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-10 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-01-11 00:21:03 +0000"
     },
     "done": true
   },
