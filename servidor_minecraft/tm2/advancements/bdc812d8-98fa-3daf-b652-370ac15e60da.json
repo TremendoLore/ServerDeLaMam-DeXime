@@ -3800,6 +3800,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-11 00:02:01 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-10 21:20:32 +0000"
@@ -3956,6 +3962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-11 00:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-01-10 21:08:01 +0000"
@@ -4109,6 +4121,12 @@
   "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-10 21:10:17 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-01-11 00:01:32 +0000"
     },
     "done": true
   },
