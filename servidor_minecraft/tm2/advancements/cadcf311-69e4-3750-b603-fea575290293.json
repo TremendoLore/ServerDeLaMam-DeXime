@@ -4677,5 +4677,11 @@
     },
     "done": true
   },
+  "geodes:adventure/outrageous": {
+    "criteria": {
+      "collect_emerald_geode": "2025-01-11 20:20:14 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
