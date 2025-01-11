@@ -3657,6 +3657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-11 00:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-01-10 23:50:42 +0000"
@@ -3795,6 +3801,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-11 00:52:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-10 21:10:17 +0000"
@@ -3848,6 +3860,12 @@
       "entered_nether": "2025-01-10 20:59:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-01-11 00:52:20 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
@@ -3924,6 +3942,12 @@
   "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-10 21:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-11 00:51:44 +0000"
     },
     "done": true
   },
@@ -4122,6 +4146,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-10 21:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-11 00:51:40 +0000"
     },
     "done": true
   },
