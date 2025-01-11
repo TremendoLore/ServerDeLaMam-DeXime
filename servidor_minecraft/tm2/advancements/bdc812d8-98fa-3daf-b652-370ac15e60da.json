@@ -5068,6 +5068,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-01-11 03:51:33 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_bulb_lantern_purple": {
     "criteria": {
       "has_purple_dye": "2025-01-11 03:50:40 +0000"
@@ -5110,15 +5116,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-11 03:51:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-01-11 03:50:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-11 03:51:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
     "criteria": {
       "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-11 03:51:33 +0000"
     },
     "done": true
   },
@@ -5140,9 +5164,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-11 03:51:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
     "criteria": {
       "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_soul_sand": "2025-01-11 03:51:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-11 03:51:33 +0000"
     },
     "done": true
   },
@@ -5152,9 +5194,27 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-01-11 03:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-11 03:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-11 03:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-11 03:51:32 +0000"
     },
     "done": true
   },
@@ -5200,6 +5260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-11 03:51:33 +0000"
+    },
+    "done": true
+  },
   "geodes:adventure/outrageous": {
     "criteria": {
       "collect_emerald_geode": "2025-01-11 03:49:14 +0000"
@@ -5209,6 +5275,24 @@
   "betternether:recipes/building_blocks/quartz_glass_purple": {
     "criteria": {
       "has_purple_dye": "2025-01-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-01-11 03:51:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-01-11 03:51:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-01-11 03:51:33 +0000"
     },
     "done": true
   },
