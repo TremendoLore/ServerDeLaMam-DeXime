@@ -1897,6 +1897,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-10 05:35:32 +0000",
+      "minecraft:blaze": "2025-01-13 03:17:57 +0000",
       "minecraft:skeleton": "2025-01-10 06:20:03 +0000",
       "minecraft:ravager": "2025-01-13 02:20:44 +0000",
       "minecraft:ghast": "2025-01-13 02:47:24 +0000",
@@ -1906,6 +1907,7 @@
       "minecraft:creeper": "2025-01-10 22:57:48 +0000",
       "minecraft:zombified_piglin": "2025-01-10 22:51:48 +0000",
       "minecraft:witch": "2025-01-13 01:55:11 +0000",
+      "minecraft:wither_skeleton": "2025-01-13 03:15:11 +0000",
       "minecraft:husk": "2025-01-11 03:00:39 +0000",
       "minecraft:cave_spider": "2025-01-11 00:21:15 +0000",
       "minecraft:piglin": "2025-01-13 02:46:04 +0000",
@@ -3676,6 +3678,7 @@
     "criteria": {
       "betternether:wart_forest_edge": "2025-01-11 02:07:04 +0000",
       "betternether:gravel_desert": "2025-01-10 20:59:45 +0000",
+      "betternether:old_swampland": "2025-01-13 03:15:23 +0000",
       "betternether:nether_swampland": "2025-01-11 02:06:58 +0000",
       "betternether:wart_forest": "2025-01-11 02:07:18 +0000",
       "betternether:nether_swampland_terraces": "2025-01-13 03:09:18 +0000",
@@ -5387,6 +5390,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-13 03:17:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 02:42:41 +0000"
@@ -5411,6 +5426,18 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-01-13 03:13:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-13 03:05:36 +0000"
@@ -5431,7 +5458,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_nether_reed": "2025-01-13 03:09:24 +0000"
+      "got_nether_reed": "2025-01-13 03:09:24 +0000",
+      "got_willow": "2025-01-13 03:12:48 +0000"
     },
     "done": false
   },
@@ -5531,9 +5559,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/willow_roof": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
   "wilderwild:recipes/redstone/geyser": {
     "criteria": {
       "has_magma_block": "2025-01-13 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
     },
     "done": true
   },
@@ -5555,15 +5595,39 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-13 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-01-13 02:43:11 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/willow_bark": {
+    "criteria": {
+      "has_willow_log": "2025-01-13 03:12:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 02:42:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
     },
     "done": true
   },
@@ -5609,6 +5673,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_block": {
     "criteria": {
       "has_cincinnasite": "2025-01-13 02:43:38 +0000"
@@ -5639,6 +5709,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/willow_chest": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-01-13 03:10:26 +0000"
@@ -5648,6 +5724,12 @@
   "betternether:recipes/tools/cincinnasite_axe": {
     "criteria": {
       "has_nether_reed_stem": "2025-01-13 03:09:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
     },
     "done": true
   },
@@ -5687,6 +5769,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-01-13 02:42:41 +0000"
@@ -5699,9 +5787,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/willow_boat": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 02:42:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
     },
     "done": true
   },
@@ -5747,6 +5847,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/willow_crafting_table": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/willow_wall": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_anvil": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 02:42:41 +0000"
@@ -5765,6 +5877,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 02:42:41 +0000"
@@ -5774,6 +5898,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-13 03:05:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
     },
     "done": true
   },
@@ -5801,6 +5931,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-01-13 03:16:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-13 02:43:11 +0000"
@@ -5819,6 +5955,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/lapis_pile_to_lapis": {
     "criteria": {
       "has_lapis_pile": "2025-01-13 02:45:09 +0000"
@@ -5831,6 +5973,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-01-13 02:42:41 +0000"
@@ -5840,6 +5988,18 @@
   "betternether:recipes/misc/stick": {
     "criteria": {
       "has_nether_reed_stem": "2025-01-13 03:09:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/willow_plate": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-13 03:17:57 +0000"
     },
     "done": true
   },
@@ -5870,6 +6030,30 @@
   "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-13 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-13 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_barrel": {
+    "criteria": {
+      "has_willow_planks": "2025-01-13 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-13 03:17:57 +0000"
     },
     "done": true
   },
