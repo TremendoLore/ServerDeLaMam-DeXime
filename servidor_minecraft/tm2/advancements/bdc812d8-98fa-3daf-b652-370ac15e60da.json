@@ -5321,12 +5321,6 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/cave_pumpkin_pie": {
-    "criteria": {
-      "has_sugar": "2025-01-13 01:59:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-13 01:59:27 +0000"
@@ -5336,6 +5330,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-01-13 01:59:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-01-13 01:59:50 +0000"
     },
     "done": true
   },

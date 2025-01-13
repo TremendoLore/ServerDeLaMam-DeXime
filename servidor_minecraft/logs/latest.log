@@ -2322,3 +2322,114 @@ BCLib - The End  BiomeSource (1cabd071)
 [02:04:12] [Server thread/INFO]: TonyStkMC was slain by Ravager
 [02:04:43] [Server thread/INFO]: TonyStkMC was slain by Ravager
 [02:04:58] [Server thread/INFO]: TonyStkMC was slain by Ravager
+[02:11:11] [Server thread/INFO]: TonyStkMC was killed by Evoker using magic
+[02:11:35] [Server thread/INFO]: TonyStkMC was slain by Vex
+[02:11:39] [Server thread/INFO]: TonyStkMC lost connection: Disconnected
+[02:11:39] [Server thread/INFO]: TonyStkMC left the game
+[02:11:39] [Server thread/INFO]: [voicechat] Disconnecting client TonyStkMC
+[02:14:37] [Server thread/INFO]: TonyStkMC[/100.113.238.76:50285] logged in with entity id 28662 at (78.5, 68.0, 104.5)
+[02:14:37] [Server thread/INFO]: Sending server config values to client
+[02:14:37] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:14:37] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[02:14:37] [Server thread/INFO]: TonyStkMC joined the game
+[02:14:37] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[02:14:38] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[02:14:39] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:14:39] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:14:39] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:14:39] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:14:39] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:14:39] [Server thread/INFO]: [voicechat] Received secret request of TonyStkMC (18)
+[02:14:39] [Server thread/INFO]: [voicechat] Sent secret to TonyStkMC
+[02:14:42] [Server thread/INFO]: TonyStkMC was slain by Vex
+[02:14:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[02:14:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[02:14:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TonyStkMC (f453b0b5-bd6f-3a24-a0a5-1235d061baed) successfully connected to voice chat
+[02:14:55] [Server thread/INFO]: TonyStkMC was shot by Pillager
+[02:15:09] [Server thread/INFO]: TonyStkMC was slain by Vex
+[02:15:16] [Server thread/INFO]: TonyStkMC was slain by Ravager
+[02:15:24] [Server thread/INFO]: TonyStkMC was slain by Vindicator
+[02:15:28] [Server thread/INFO]: Villager class_1646['Villager'/134, l='ServerLevel[tm2]', x=72.89, y=57.95, z=104.18] died, message: 'Villager was slain by Vindicator'
+[02:15:30] [Server thread/INFO]: Villager class_1646['Villager'/83, l='ServerLevel[tm2]', x=73.33, y=58.00, z=105.25] died, message: 'Villager was slain by Vindicator'
+[02:15:34] [Server thread/INFO]: Villager class_1646['Villager'/21097, l='ServerLevel[tm2]', x=66.25, y=57.00, z=105.50] died, message: 'Villager was slain by Vindicator'
+[02:15:44] [Server thread/INFO]: Villager class_1646['Villager'/1419, l='ServerLevel[tm2]', x=62.40, y=57.88, z=104.09] died, message: 'Villager was slain by Vindicator'
+[02:16:03] [Server thread/INFO]: Villager class_1646['Archery Artisan'/132, l='ServerLevel[tm2]', x=73.05, y=58.00, z=105.59] died, message: 'Archery Artisan was slain by Vindicator'
+[02:16:05] [Server thread/INFO]: Villager class_1646['Fisherman'/131, l='ServerLevel[tm2]', x=69.37, y=57.00, z=104.70] died, message: 'Fisherman was slain by Vindicator'
+[02:16:10] [Server thread/INFO]: Villager class_1646['Villager'/87, l='ServerLevel[tm2]', x=72.56, y=57.77, z=99.51] died, message: 'Villager was slain by Vindicator'
+[02:16:13] [Server thread/INFO]: Villager class_1646['Villager'/85, l='ServerLevel[tm2]', x=73.41, y=57.23, z=99.70] died, message: 'Villager was slain by Vindicator'
+[02:16:14] [Server thread/INFO]: Villager class_1646['Librarian'/137, l='ServerLevel[tm2]', x=71.79, y=57.00, z=98.64] died, message: 'Librarian was slain by Vindicator'
+[02:16:28] [Server thread/INFO]: Villager class_1646['Villager'/6290, l='ServerLevel[tm2]', x=71.20, y=58.00, z=105.35] died, message: 'Villager was slain by Vindicator'
+[02:16:30] [Server thread/INFO]: Villager class_1646['Villager'/93, l='ServerLevel[tm2]', x=73.04, y=58.00, z=105.60] died, message: 'Villager was slain by Vindicator'
+[02:16:35] [Server thread/INFO]: Villager class_1646['Fisherman'/3056, l='ServerLevel[tm2]', x=71.20, y=57.00, z=92.02] died, message: 'Fisherman was slain by Vindicator'
+[02:16:39] [Server thread/INFO]: Villager class_1646['Fisherman'/129, l='ServerLevel[tm2]', x=65.35, y=57.00, z=100.99] died, message: 'Fisherman was slain by Vindicator'
+[02:16:43] [Server thread/INFO]: Villager class_1646['Villager'/94, l='ServerLevel[tm2]', x=65.11, y=57.00, z=105.17] died, message: 'Villager was slain by Vindicator'
+[02:16:46] [Server thread/INFO]: Villager class_1646['Villager'/12668, l='ServerLevel[tm2]', x=73.70, y=58.00, z=105.70] died, message: 'Villager was slain by Vindicator'
+[02:16:49] [Server thread/INFO]: Villager class_1646['Librarian'/84, l='ServerLevel[tm2]', x=73.02, y=57.23, z=104.40] died, message: 'Librarian was slain by Vindicator'
+[02:16:56] [Server thread/INFO]: Villager class_1646['Librarian'/123, l='ServerLevel[tm2]', x=71.23, y=57.00, z=98.51] died, message: 'Librarian was slain by Vindicator'
+[02:16:58] [Server thread/INFO]: Villager class_1646['Villager'/135, l='ServerLevel[tm2]', x=72.41, y=57.54, z=99.66] died, message: 'Villager was slain by Vindicator'
+[02:17:09] [Server thread/INFO]: Villager class_1646['Villager'/92, l='ServerLevel[tm2]', x=73.05, y=57.00, z=103.46] died, message: 'Villager was slain by Vindicator'
+[02:17:15] [Server thread/INFO]: Villager class_1646['Fisherman'/4439, l='ServerLevel[tm2]', x=63.41, y=57.41, z=99.31] died, message: 'Fisherman was slain by Vindicator'
+[02:17:24] [Server thread/INFO]: Villager class_1646['Toolsmith'/88, l='ServerLevel[tm2]', x=64.56, y=57.00, z=89.57] died, message: 'Toolsmith was slain by Vindicator'
+[02:17:27] [Server thread/INFO]: Villager class_1646['Fisherman'/127, l='ServerLevel[tm2]', x=64.32, y=57.00, z=87.44] died, message: 'Fisherman was slain by Vindicator'
+[02:17:35] [Server thread/INFO]: Villager class_1646['Librarian'/86, l='ServerLevel[tm2]', x=73.55, y=58.00, z=101.48] died, message: 'Librarian was slain by Vindicator'
+[02:17:37] [Server thread/INFO]: Villager class_1646['Villager'/124, l='ServerLevel[tm2]', x=73.07, y=57.00, z=101.35] died, message: 'Villager was slain by Vindicator'
+[02:17:54] [Server thread/INFO]: Villager class_1646['Fisherman'/95, l='ServerLevel[tm2]', x=62.92, y=57.88, z=98.73] died, message: 'Fisherman was slain by Vindicator'
+[02:17:59] [Server thread/INFO]: Villager class_1646['Villager'/96, l='ServerLevel[tm2]', x=73.65, y=58.00, z=87.86] died, message: 'Villager was slain by Vindicator'
+[02:18:03] [Server thread/INFO]: Villager class_1646['Librarian'/90, l='ServerLevel[tm2]', x=70.41, y=57.00, z=99.92] died, message: 'Librarian was slain by Vindicator'
+[02:18:06] [Server thread/INFO]: Villager class_1646['Librarian'/91, l='ServerLevel[tm2]', x=72.32, y=58.00, z=104.61] died, message: 'Librarian was slain by Vindicator'
+[02:18:13] [Server thread/INFO]: Villager class_1646['Fisherman'/130, l='ServerLevel[tm2]', x=73.43, y=58.00, z=87.91] died, message: 'Fisherman was slain by Vindicator'
+[02:18:17] [Server thread/INFO]: Villager class_1646['Librarian'/136, l='ServerLevel[tm2]', x=62.30, y=57.88, z=87.30] died, message: 'Librarian was slain by Vindicator'
+[02:18:24] [Server thread/INFO]: Villager class_1646['Archery Artisan'/128, l='ServerLevel[tm2]', x=73.41, y=58.00, z=105.61] died, message: 'Archery Artisan was slain by Vindicator'
+[02:18:53] [Server thread/INFO]: Villager class_1646['Librarian'/133, l='ServerLevel[tm2]', x=62.89, y=57.88, z=103.95] died, message: 'Librarian was shot by Illusioner'
+[02:18:55] [Server thread/INFO]: Villager class_1646['Weaponsmith'/89, l='ServerLevel[tm2]', x=62.73, y=57.00, z=105.65] died, message: 'Weaponsmith was slain by Vindicator'
+[02:19:01] [Server thread/INFO]: Villager class_1646['Fisherman'/18048, l='ServerLevel[tm2]', x=71.86, y=57.00, z=102.29] died, message: 'Fisherman was slain by Vindicator'
+[02:19:02] [Server thread/INFO]: Villager class_1646['Archery Artisan'/490, l='ServerLevel[tm2]', x=70.50, y=57.00, z=97.84] died, message: 'Archery Artisan was slain by Vindicator'
+[02:19:06] [Server thread/INFO]: Villager class_1646['Fisherman'/7998, l='ServerLevel[tm2]', x=72.98, y=58.00, z=88.02] died, message: 'Fisherman was slain by Vindicator'
+[02:20:11] [Server thread/INFO]: XimenaRth[/100.90.53.102:59972] logged in with entity id 30650 at (96.69999998807907, 63.0, 105.62463337624698)
+[02:20:11] [Server thread/INFO]: Sending server config values to client
+[02:20:11] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:20:11] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[02:20:11] [Server thread/INFO]: XimenaRth joined the game
+[02:20:11] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[02:20:11] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[02:20:12] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:20:12] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:20:12] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:20:12] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:20:12] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:20:12] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[02:20:12] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[02:20:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[02:20:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[02:20:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[02:20:27] [Server thread/INFO]: [Not Secure] <TonyStkMC> XIME
+[02:20:28] [Server thread/INFO]: [Not Secure] <TonyStkMC> AYDUAME
+[02:20:30] [Server thread/INFO]: [Not Secure] <TonyStkMC> PENDEHA
+[02:20:30] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAOSJSDASLDJK
+[02:20:31] [Server thread/INFO]: [Not Secure] <TonyStkMC> XINMEE
