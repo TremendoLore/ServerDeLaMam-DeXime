@@ -3681,6 +3681,7 @@
       "betternether:flooded_deltas": "2025-01-13 03:26:28 +0000",
       "betternether:old_swampland": "2025-01-13 03:15:23 +0000",
       "betternether:nether_swampland": "2025-01-11 02:06:58 +0000",
+      "betternether:magma_land": "2025-01-13 03:36:51 +0000",
       "betternether:wart_forest": "2025-01-11 02:07:18 +0000",
       "betternether:nether_swampland_terraces": "2025-01-13 03:09:18 +0000",
       "betternether:soul_plain": "2025-01-13 02:41:08 +0000"
@@ -5361,6 +5362,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_sword": {
     "criteria": {
       "has_nether_reed_stem": "2025-01-13 03:09:24 +0000"
@@ -5381,6 +5388,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-13 03:58:53 +0000",
       "minecraft:nether_wastes": "2025-01-13 02:43:00 +0000",
       "minecraft:basalt_deltas": "2025-01-13 03:25:15 +0000"
     },
@@ -5389,6 +5397,18 @@
   "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
     "criteria": {
       "has_soul_sandstone": "2025-01-13 03:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
@@ -5404,9 +5424,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 02:42:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
@@ -5437,6 +5469,12 @@
   "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-01-13 03:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
@@ -5491,6 +5529,18 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-13 03:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
@@ -5675,9 +5725,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 02:42:41 +0000"
+    },
+    "done": true
+  },
+  "dehydration:diamond_recipes": {
+    "criteria": {
+      "got_the_diamond_for_dehydration": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
@@ -5759,6 +5821,24 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-13 03:26:40 +0000"
@@ -5789,6 +5869,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-01-13 03:16:09 +0000"
@@ -5798,6 +5884,12 @@
   "betternether:recipes/building_blocks/cincinnasite_block": {
     "criteria": {
       "has_cincinnasite": "2025-01-13 02:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
@@ -5864,6 +5956,12 @@
   "stoneworks:recipes/building_blocks/basalt_shingle_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-13 03:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
@@ -6143,6 +6241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/willow_door": {
     "criteria": {
       "has_willow_planks": "2025-01-13 03:12:59 +0000"
@@ -6206,6 +6310,18 @@
   "stoneworks:recipes/building_blocks/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-13 02:42:41 +0000"
+    },
+    "done": true
+  },
+  "geodes:recipes/building_blocks/diamond_crystal_block": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-13 03:49:47 +0000"
     },
     "done": true
   },
@@ -6287,9 +6403,21 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-13 03:26:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
@@ -6341,6 +6469,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-13 03:26:40 +0000"
@@ -6359,9 +6493,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-13 03:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
@@ -6371,9 +6517,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-13 03:49:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-01-13 03:17:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-13 03:44:56 +0000"
     },
     "done": true
   },
