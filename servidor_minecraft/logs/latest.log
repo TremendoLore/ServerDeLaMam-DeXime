@@ -2229,3 +2229,96 @@ BCLib - The End  BiomeSource (1cabd071)
 [01:49:50] [Server thread/INFO]: [Not Secure] <TonyStkMC> XIME
 [01:49:51] [Server thread/INFO]: [Not Secure] <TonyStkMC> TXIME
 [01:49:52] [Server thread/INFO]: [Not Secure] <TonyStkMC> ALIANZA
+[01:50:39] [Server thread/INFO]: [Not Secure] <TonyStkMC> ALIANZA XIME
+[01:50:54] [Server thread/INFO]: Villager class_1646['Butcher'/49, l='ServerLevel[tm2]', x=33.38, y=70.00, z=71.81] died, message: 'Butcher was shot by Pillager'
+[01:51:50] [Server thread/INFO]: TonyStkMC has made the advancement [Take Aim]
+[01:54:25] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAJAJA
+[01:55:13] [Server thread/INFO]: [Not Secure] <TonyStkMC> ez
+[01:56:11] [Server thread/INFO]: TonyStkMC was killed by Iceologer using magic
+[01:56:15] [Server thread/INFO]: [Not Secure] <TonyStkMC> QEU EPDO
+[01:56:20] [Server thread/INFO]: XimenaRth was killed by Iceologer using magic
+[01:56:39] [Server thread/INFO]: XimenaRth was frozen to death by Iceologer
+[01:56:46] [Server thread/INFO]: TonyStkMC has made the advancement [World of illusion]
+[01:56:46] [Server thread/INFO]: TonyStkMC was killed by Iceologer using magic
+[01:56:46] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[01:56:46] [Server thread/INFO]: XimenaRth left the game
+[01:56:46] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[01:56:53] [Server thread/INFO]: XimenaRth[/100.90.53.102:59598] logged in with entity id 23863 at (77.5, 68.5625, 105.5)
+[01:56:53] [Server thread/INFO]: Sending server config values to client
+[01:56:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:56:53] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:56:53] [Server thread/INFO]: XimenaRth joined the game
+[01:56:53] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:56:53] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[01:56:53] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:56:53] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:56:53] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:56:53] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:56:53] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:56:53] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[01:56:53] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[01:57:02] [Server thread/INFO]: TonyStkMC was killed by Iceologer using magic
+[01:57:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:57:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:57:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[01:57:17] [Server thread/INFO]: TonyStkMC was killed by Iceologer using magic
+[01:57:42] [Server thread/INFO]: TonyStkMC has made the advancement [I was here, i lived, i..]
+[01:58:40] [Server thread/INFO]: [Not Secure] <TonyStkMC> ay q usar
+[01:58:42] [Server thread/INFO]: [Not Secure] <TonyStkMC> sodium xime
+[01:58:48] [Server thread/INFO]: [Not Secure] <TonyStkMC> para evitar estos lagazos
+[02:00:17] [Server thread/INFO]: TonyStkMC has made the advancement [Ol' Betsy]
+[02:02:19] [Server thread/INFO]: TonyStkMC has completed the challenge [The Magicians]
+[02:02:25] [Server thread/INFO]: TonyStkMC was slain by Vex
+[02:02:55] [Server thread/INFO]: [Not Secure] <TonyStkMC> va
+[02:02:56] [Server thread/INFO]: TonyStkMC lost connection: Disconnected
+[02:02:56] [Server thread/INFO]: TonyStkMC left the game
+[02:02:56] [Server thread/INFO]: [voicechat] Disconnecting client TonyStkMC
+[02:02:58] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[02:02:58] [Server thread/INFO]: XimenaRth left the game
+[02:02:58] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[02:03:01] [Server thread/INFO]: TonyStkMC[/100.113.238.76:49768] logged in with entity id 25481 at (32.12048913691891, 71.00133597911214, 34.90403109432439)
+[02:03:01] [Server thread/INFO]: Sending server config values to client
+[02:03:01] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:03:01] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[02:03:01] [Server thread/INFO]: TonyStkMC joined the game
+[02:03:01] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[02:03:01] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[02:03:01] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:03:01] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:03:01] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:03:01] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:03:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:03:01] [Server thread/INFO]: [voicechat] Received secret request of TonyStkMC (18)
+[02:03:01] [Server thread/INFO]: [voicechat] Sent secret to TonyStkMC
+[02:03:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[02:03:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[02:03:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TonyStkMC (f453b0b5-bd6f-3a24-a0a5-1235d061baed) successfully connected to voice chat
+[02:04:12] [Server thread/INFO]: TonyStkMC was slain by Ravager
+[02:04:43] [Server thread/INFO]: TonyStkMC was slain by Ravager
+[02:04:58] [Server thread/INFO]: TonyStkMC was slain by Ravager

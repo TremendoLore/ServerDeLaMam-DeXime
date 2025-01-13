@@ -1902,6 +1902,7 @@
       "minecraft:spider": "2025-01-10 06:40:56 +0000",
       "minecraft:creeper": "2025-01-10 22:57:48 +0000",
       "minecraft:zombified_piglin": "2025-01-10 22:51:48 +0000",
+      "minecraft:witch": "2025-01-13 01:55:11 +0000",
       "minecraft:husk": "2025-01-11 03:00:39 +0000",
       "minecraft:cave_spider": "2025-01-11 00:21:15 +0000",
       "minecraft:zombie": "2025-01-10 06:26:45 +0000",
@@ -5317,6 +5318,24 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-13 01:02:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-01-13 01:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-13 01:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-13 01:59:27 +0000"
     },
     "done": true
   },
