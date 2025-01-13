@@ -1067,3 +1067,371 @@ BCLib - The End  BiomeSource (1cabd071)
 [00:48:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
 [00:48:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
 [00:48:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:49:54] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:49:54] [Server thread/INFO]: XimenaRth left the game
+[00:49:54] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:50:43] [Server thread/INFO]: XimenaRth[/100.90.53.102:58725] logged in with entity id 3236 at (34.62914922312321, 78.0, 61.09436953851949)
+[00:50:43] [Server thread/INFO]: Sending server config values to client
+[00:50:43] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:50:43] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:50:43] [Server thread/INFO]: XimenaRth joined the game
+[00:50:43] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:50:43] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:50:43] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:50:43] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:50:43] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:50:43] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:50:43] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:50:43] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:50:43] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:50:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:50:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:50:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:51:14] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:51:14] [Server thread/INFO]: XimenaRth left the game
+[00:51:14] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:51:31] [Server thread/INFO]: XimenaRth[/100.90.53.102:58730] logged in with entity id 3342 at (39.5, 78.0, 59.5)
+[00:51:31] [Server thread/INFO]: Sending server config values to client
+[00:51:31] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:51:31] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:51:31] [Server thread/INFO]: XimenaRth joined the game
+[00:51:31] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:51:31] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[00:51:31] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:51:31] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:51:31] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:51:31] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:51:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:51:31] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:51:31] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:51:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:52:01] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:52:01] [Server thread/INFO]: XimenaRth left the game
+[00:52:01] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:52:05] [Server thread/INFO]: XimenaRth[/100.90.53.102:58745] logged in with entity id 3445 at (32.92900529407509, 78.0, 56.95463542918875)
+[00:52:05] [Server thread/INFO]: Sending server config values to client
+[00:52:05] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:52:05] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:52:05] [Server thread/INFO]: XimenaRth joined the game
+[00:52:05] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:52:06] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[00:52:06] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:52:06] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:52:06] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:52:06] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:52:06] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:52:06] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:52:06] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:52:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:52:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:52:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:52:18] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:52:18] [Server thread/INFO]: XimenaRth left the game
+[00:52:18] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:52:24] [Server thread/INFO]: XimenaRth[/100.90.53.102:58750] logged in with entity id 3491 at (32.94008380169733, 78.0, 56.59130585729634)
+[00:52:24] [Server thread/INFO]: Sending server config values to client
+[00:52:24] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:52:24] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:52:24] [Server thread/INFO]: XimenaRth joined the game
+[00:52:24] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:52:24] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[00:52:24] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:52:24] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:52:24] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:52:24] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:52:24] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:52:24] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:52:24] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:52:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:52:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:52:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:52:44] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:52:44] [Server thread/INFO]: XimenaRth left the game
+[00:52:44] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:52:58] [Server thread/INFO]: XimenaRth[/100.90.53.102:58768] logged in with entity id 3538 at (35.534314028262195, 78.0, 61.62926123228967)
+[00:52:58] [Server thread/INFO]: Sending server config values to client
+[00:52:58] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:52:58] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:52:58] [Server thread/INFO]: XimenaRth joined the game
+[00:52:58] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:52:58] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[00:52:58] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:52:58] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:52:58] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:52:58] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:52:58] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:52:58] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:52:58] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:53:00] [Server thread/INFO]: Incorrect argument for command
+[00:53:00] [Server thread/INFO]: ...uman human <--[HERE]
+[00:53:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:53:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:53:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:53:21] [Server thread/INFO]: Unknown origin: minecraft:human
+[00:53:55] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:53:55] [Server thread/INFO]: XimenaRth left the game
+[00:53:55] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:53:58] [Server thread/INFO]: XimenaRth[/100.90.53.102:58771] logged in with entity id 3724 at (33.58060679597987, 72.0, 55.096950157936966)
+[00:53:58] [Server thread/INFO]: Sending server config values to client
+[00:53:58] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:53:58] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:53:58] [Server thread/INFO]: XimenaRth joined the game
+[00:53:58] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:53:58] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[00:53:58] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:53:58] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:53:58] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:53:58] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:53:58] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:53:58] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:53:58] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:54:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:54:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:54:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:54:45] [Server thread/INFO]: Loading config WWItemConfig from wilderwild
+[00:54:45] [Server thread/INFO]: Saving config WWItemConfig from wilderwild
+[00:54:51] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:54:51] [Server thread/INFO]: XimenaRth left the game
+[00:54:51] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:54:54] [Server thread/INFO]: XimenaRth[/100.90.53.102:58778] logged in with entity id 3895 at (35.145469072467506, 78.0, 59.81016216658534)
+[00:54:54] [Server thread/INFO]: Sending server config values to client
+[00:54:54] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:54:54] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:54:54] [Server thread/INFO]: XimenaRth joined the game
+[00:54:54] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:54:54] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:54:54] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:54:54] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:54:54] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:54:54] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:54:54] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:54:54] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:54:54] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:54:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:55:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:55:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:56:56] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:56:56] [Server thread/INFO]: XimenaRth left the game
+[00:56:56] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:56:59] [Server thread/INFO]: XimenaRth[/100.90.53.102:58792] logged in with entity id 4221 at (30.27242862786464, 72.0, 59.481935046687354)
+[00:56:59] [Server thread/INFO]: Sending server config values to client
+[00:56:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:56:59] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:56:59] [Server thread/INFO]: XimenaRth joined the game
+[00:56:59] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:56:59] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[00:56:59] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:56:59] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:56:59] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:56:59] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:56:59] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:56:59] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:56:59] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:57:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:57:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:57:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:57:16] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:57:16] [Server thread/INFO]: XimenaRth left the game
+[00:57:16] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:57:18] [Server thread/INFO]: XimenaRth[/100.90.53.102:58796] logged in with entity id 4298 at (33.970446944092885, 78.0, 62.0075659215637)
+[00:57:18] [Server thread/INFO]: Sending server config values to client
+[00:57:18] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:57:18] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:57:18] [Server thread/INFO]: XimenaRth joined the game
+[00:57:18] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:57:19] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[00:57:19] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:57:19] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:57:19] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:57:19] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:57:19] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:57:19] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:57:19] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:57:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:57:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:57:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:57:25] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:57:25] [Server thread/INFO]: XimenaRth left the game
+[00:57:25] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:57:27] [Server thread/INFO]: XimenaRth[/100.90.53.102:58799] logged in with entity id 4320 at (33.970446944092885, 78.0, 62.0075659215637)
+[00:57:27] [Server thread/INFO]: Sending server config values to client
+[00:57:27] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:57:27] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:57:27] [Server thread/INFO]: XimenaRth joined the game
+[00:57:27] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:57:27] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[00:57:27] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:57:27] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:57:27] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:57:27] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:57:27] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:57:27] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:57:27] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:57:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[00:57:34] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[00:57:34] [Server thread/INFO]: XimenaRth left the game
+[00:57:34] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[00:57:45] [Server thread/INFO]: XimenaRth[/100.90.53.102:58812] logged in with entity id 4359 at (36.608316319696016, 78.0, 61.20691101240612)
+[00:57:45] [Server thread/INFO]: Sending server config values to client
+[00:57:45] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:57:45] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:57:45] [Server thread/INFO]: XimenaRth joined the game
+[00:57:45] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[00:57:46] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[00:57:46] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:57:46] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:57:46] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:57:46] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:57:46] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:57:46] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[00:57:46] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[00:57:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:57:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[00:57:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
