@@ -1901,6 +1901,7 @@
       "minecraft:skeleton": "2025-01-10 06:20:03 +0000",
       "minecraft:ravager": "2025-01-13 02:20:44 +0000",
       "minecraft:ghast": "2025-01-13 02:47:24 +0000",
+      "minecraft:hoglin": "2025-01-16 23:43:08 +0000",
       "minecraft:vindicator": "2025-01-10 05:58:31 +0000",
       "minecraft:magma_cube": "2025-01-13 03:10:10 +0000",
       "minecraft:spider": "2025-01-10 06:40:56 +0000",
@@ -5808,7 +5809,8 @@
   "betternether:nether_wood": {
     "criteria": {
       "got_nether_reed": "2025-01-13 03:09:24 +0000",
-      "got_willow": "2025-01-13 03:12:48 +0000"
+      "got_willow": "2025-01-13 03:12:48 +0000",
+      "got_crimson": "2025-01-16 23:40:59 +0000"
     },
     "done": false
   },
@@ -6541,6 +6543,96 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-13 03:49:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_boat": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-16 23:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_barrel": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_crafting_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-16 23:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-16 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-16 23:41:28 +0000"
     },
     "done": true
   },
