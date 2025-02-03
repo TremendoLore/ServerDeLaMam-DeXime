@@ -2708,3 +2708,232 @@ BCLib - The End  BiomeSource (1f83243a)
 [03:25:20] [Server thread/INFO]: [Not Secure] <XimenaRth> como tu we
 [03:25:21] [Server thread/INFO]: [Not Secure] <TonyStkMC> lo naco
 [03:25:22] [Server thread/INFO]: [Not Secure] <TonyStkMC> es blud
+[03:27:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player bdc812d8-98fa-3daf-b652-370ac15e60da timed out
+[03:27:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player XimenaRth
+[03:27:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to XimenaRth
+[03:26:58] [Server thread/INFO]: [Not Secure] <TonyStkMC> keshe 20 series
+[03:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21844ms or 436 ticks behind
+[03:27:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player f453b0b5-bd6f-3a24-a0a5-1235d061baed timed out
+[03:27:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player TonyStkMC
+[03:27:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to TonyStkMC
+[03:27:20] [Server thread/INFO]: TonyStkMC lost connection: Disconnected
+[03:27:20] [Server thread/INFO]: TonyStkMC left the game
+[03:27:20] [Server thread/INFO]: [voicechat] Disconnecting client TonyStkMC
+[03:27:20] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[03:27:20] [Server thread/INFO]: XimenaRth left the game
+[03:27:20] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[03:27:20] [Server thread/WARN]: M1sh4_uwu moved too quickly! -4.368416621067766,-9.0,-0.787012480289647
+[03:27:20] [Server thread/INFO]: TonyStkMC[/100.113.238.76:49461] logged in with entity id 81572 at (108.69999998807907, 63.0, 110.69999998807907)
+[03:27:20] [Server thread/INFO]: Sending server config values to client
+[03:27:20] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:27:20] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[03:27:20] [Server thread/INFO]: TonyStkMC joined the game
+[03:27:20] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[03:27:20] [Server thread/INFO]: XimenaRth[/100.90.53.102:62748] logged in with entity id 81575 at (79.55511315150575, 68.0, 102.2010691583548)
+[03:27:20] [Server thread/INFO]: Sending server config values to client
+[03:27:20] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:27:20] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[03:27:20] [Server thread/INFO]: XimenaRth joined the game
+[03:27:20] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[03:27:20] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[03:27:20] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[03:27:20] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:27:20] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:27:20] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:27:20] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:27:20] [Server thread/INFO]: [voicechat] Received secret request of TonyStkMC (18)
+[03:27:20] [Server thread/INFO]: [voicechat] Sent secret to TonyStkMC
+[03:27:20] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:27:20] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:27:20] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:27:20] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:27:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:27:20] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[03:27:20] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[03:27:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[03:27:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[03:27:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[03:27:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TonyStkMC (f453b0b5-bd6f-3a24-a0a5-1235d061baed) successfully connected to voice chat
+[03:27:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[03:27:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[03:27:30] [Server thread/INFO]: [Not Secure] <TonyStkMC> quje
+[03:27:32] [Server thread/INFO]: [Not Secure] <XimenaRth> tony
+[03:27:33] [Server thread/INFO]: [Not Secure] <XimenaRth> asi alv
+[03:27:40] [Server thread/INFO]: [Not Secure] <XimenaRth> que seria lo mas naco que haces
+[03:27:52] [Server thread/INFO]: [Not Secure] <TonyStkMC> osea
+[03:27:55] [Server thread/INFO]: [Not Secure] <TonyStkMC> cuando o en q situacion
+[03:27:57] [Server thread/INFO]: [Not Secure] <XimenaRth> misha puedo agarrar esmeraldas?
+[03:28:00] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> aja
+[03:28:10] [Server thread/INFO]: [Not Secure] <XimenaRth> no osea que hagas diario
+[03:28:19] [Server thread/INFO]: [Not Secure] <TonyStkMC> pues
+[03:28:21] [Server thread/INFO]: [Not Secure] <TonyStkMC> yo crwo q jugar lol xd
+[03:28:24] [Server thread/INFO]: [Not Secure] <XimenaRth> JAJAJA
+[03:28:38] [Server thread/INFO]: [Not Secure] <TonyStkMC> me da pena decir q jyuego esa mamada xd
+[03:28:53] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[03:29:05] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> tony mira
+[03:29:16] [Server thread/INFO]: [Not Secure] <TonyStkMC> qeyu es eso
+[03:29:17] [Server thread/INFO]: [Not Secure] <XimenaRth> entonces porque en discord tienes : tu corazon y espada siempre por demacia
+[03:29:23] [Server thread/INFO]: [Not Secure] <TonyStkMC> parecen greñas
+[03:29:27] [Server thread/INFO]: [Not Secure] <TonyStkMC> porque nadie
+[03:29:28] [Server thread/INFO]: [Not Secure] <TonyStkMC> sabe
+[03:29:31] [Server thread/INFO]: [Not Secure] <TonyStkMC> wq es la frase de garen
+[03:29:32] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[03:30:10] [Server thread/INFO]: [Not Secure] <TonyStkMC> qyuepwedo
+[03:30:20] [Server thread/INFO]: [Not Secure] <TonyStkMC> pinchepedorra
+[03:30:21] [Server thread/INFO]: [Not Secure] <TonyStkMC> alabergha
+[03:30:23] [Server thread/INFO]: [Not Secure] <XimenaRth> XD
+[03:30:52] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> oq esta aqui el de la armor y ni tiene su estacion
+[03:30:55] [Server thread/INFO]: [Not Secure] <TonyStkMC> kj estaria desepcionado
+[03:31:02] [Server thread/INFO]: [Not Secure] <XimenaRth> por
+[03:31:16] [Server thread/INFO]: [Not Secure] <TonyStkMC> pq eres muy ijadeperra
+[03:31:21] [Server thread/INFO]: [Not Secure] <XimenaRth> que porque?
+[03:31:26] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> a mimir
+[03:31:33] [Server thread/INFO]: [Not Secure] <XimenaRth> mime
+[03:31:33] [Server thread/INFO]: [Not Secure] <XimenaRth> we
+[03:32:26] [Server thread/INFO]: [Not Secure] <TonyStkMC> hijos de puta
+[03:32:31] [Server thread/INFO]: [Not Secure] <TonyStkMC> donde
+[03:32:32] [Server thread/INFO]: [Not Secure] <TonyStkMC> esta
+[03:32:33] [Server thread/INFO]: [Not Secure] <TonyStkMC> el aldeano
+[03:32:34] [Server thread/INFO]: [Not Secure] <TonyStkMC> ese
+[03:32:34] [Server thread/INFO]: [Not Secure] <TonyStkMC> que
+[03:32:38] [Server thread/INFO]: [Not Secure] <TonyStkMC> q suena
+[03:32:46] [Server thread/INFO]: TonyStkMC has made the advancement [Cover Me with Diamonds]
+[03:33:19] [Server thread/INFO]: [Not Secure] <TonyStkMC> pinxhe xime
+[03:33:21] [Server thread/INFO]: [Not Secure] <TonyStkMC> lacra
+[03:33:27] [Server thread/INFO]: [Not Secure] <XimenaRth> necesito esmeraldas
+[03:33:27] [Server thread/INFO]: [Not Secure] <XimenaRth> alv
+[03:33:31] [Server thread/INFO]: [Not Secure] <XimenaRth> tienes un pinche dooper
+[03:33:33] [Server thread/INFO]: [Not Secure] <XimenaRth> cabron
+[03:33:41] [Server thread/INFO]: [Not Secure] <TonyStkMC> yo lo invente
+[03:33:45] [Server thread/INFO]: [Not Secure] <TonyStkMC> mmi creacion
+[03:33:49] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> el q llego a usar los aldeanos de los demas:
+[03:33:51] [Server thread/INFO]: [Not Secure] <TonyStkMC> vetealabrgha
+[03:34:00] [Server thread/INFO]: [Not Secure] <TonyStkMC> esa madre
+[03:34:02] [Server thread/INFO]: [Not Secure] <TonyStkMC> suena bien
+[03:34:05] [Server thread/INFO]: [Not Secure] <TonyStkMC> chido
+[03:34:05] [Server thread/INFO]: [Not Secure] <TonyStkMC> osea
+[03:34:06] [Server thread/INFO]: [Not Secure] <TonyStkMC> asi
+[03:34:08] [Server thread/INFO]: [Not Secure] <TonyStkMC> bien
+[03:34:08] [Server thread/INFO]: [Not Secure] <TonyStkMC> padre
+[03:34:55] [Server thread/INFO]: [Not Secure] <XimenaRth> pendeja me compre otros pantalones
+[03:34:56] [Server thread/INFO]: [Not Secure] <TonyStkMC> soy un poendejo
+[03:34:56] [Server thread/INFO]: [Not Secure] <XimenaRth> AJAJAJA
+[03:34:57] [Server thread/INFO]: [Not Secure] <TonyStkMC> me compre
+[03:34:57] [Server thread/INFO]: [Not Secure] <TonyStkMC> dos
+[03:34:59] [Server thread/INFO]: [Not Secure] <TonyStkMC> petos
+[03:35:00] [Server thread/INFO]: [Not Secure] <TonyStkMC> jajajksajks
+[03:35:04] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[03:35:25] [Server thread/INFO]: [Not Secure] <TonyStkMC> dame
+[03:35:33] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[03:35:36] [Server thread/INFO]: [Not Secure] <XimenaRth> suena cagado
+[03:35:42] [Server thread/INFO]: [Not Secure] <XimenaRth> JAJAJA
+[03:35:50] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAJAJ
+[03:36:05] [Server thread/INFO]: [Not Secure] <XimenaRth> no way haz el happy birthday
+[03:36:19] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> callense porfavor
+[03:36:24] [Server thread/INFO]: [Not Secure] <XimenaRth> YA TONY
+[03:36:25] [Server thread/INFO]: [Not Secure] <XimenaRth> YA
+[03:36:26] [Server thread/INFO]: [Not Secure] <XimenaRth> PARALE
+[03:36:27] [Server thread/INFO]: [Not Secure] <XimenaRth> AL
+[03:36:28] [Server thread/INFO]: [Not Secure] <XimenaRth> V
+[03:36:48] [Server thread/INFO]: [Not Secure] <XimenaRth> JAJAJA
+[03:36:50] [Server thread/INFO]: [Not Secure] <XimenaRth> XD
+[03:39:02] [Server thread/INFO]: [Not Secure] <XimenaRth> we tony
+[03:39:10] [Server thread/INFO]: [Not Secure] <XimenaRth> tu no estas emocionado por la pelicula de chainsaw man?
+[03:39:26] [Server thread/INFO]: [Not Secure] <TonyStkMC> chi
+[03:39:36] [Server thread/INFO]: [Not Secure] <XimenaRth> va a ser cine
+[03:39:38] [Server thread/INFO]: [Not Secure] <TonyStkMC> ni sabia q va a tener xd
+[03:39:42] [Server thread/INFO]: [Not Secure] <XimenaRth> que
+[03:39:49] [Server thread/INFO]: [Not Secure] <TonyStkMC> qye
+[03:39:53] [Server thread/INFO]: [Not Secure] <XimenaRth> no mames si internet me bombardeo de eos cada dia
+[03:39:56] [Server thread/INFO]: [Not Secure] <XimenaRth> despues de su trailer
+[03:39:56] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[03:39:57] [Server thread/INFO]: [Not Secure] <TonyStkMC> vekga
+[03:40:50] [Server thread/INFO]: [Not Secure] <XimenaRth> al quien le de
+[03:40:51] [Server thread/INFO]: [Not Secure] <XimenaRth> es gay
+[03:40:56] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[03:40:59] [Server thread/INFO]: [Not Secure] <XimenaRth> la tierra es gay
+[03:41:11] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[03:41:14] [Server thread/INFO]: [Not Secure] <TonyStkMC> aver
+[03:41:28] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[03:41:50] [Server thread/INFO]: [Not Secure] <XimenaRth> alv la inflacion
+[03:43:47] [Server thread/INFO]: [Not Secure] <XimenaRth> :v no las quieren
+[03:43:48] [Server thread/INFO]: [Not Secure] <XimenaRth> we
+[03:43:53] [Server thread/INFO]: [Not Secure] <XimenaRth> las ando quitando por eso
+[03:43:54] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[03:44:01] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> a mimir
+[03:44:16] [Server thread/INFO]: [Not Secure] <TonyStkMC> ocupamos un aldeano
+[03:44:21] [Server thread/INFO]: [Not Secure] <TonyStkMC> q haga recargas
+[03:44:24] [Server thread/INFO]: [Not Secure] <TonyStkMC> de 20 pesos
+[03:44:27] [Server thread/INFO]: [Not Secure] <XimenaRth> XD
+[03:44:53] [Server thread/INFO]: [Not Secure] <XimenaRth> me da risa que el mc te ponga asi
+[03:45:03] [Server thread/INFO]: [Not Secure] <XimenaRth> es como decir alv compadre que lindos ojos
+[03:45:16] [Server thread/INFO]: [Not Secure] <TonyStkMC> que
+[03:45:18] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAAJ
+[03:45:21] [Server thread/INFO]: [Not Secure] <TonyStkMC> alv
+[03:45:26] [Server thread/INFO]: [Not Secure] <XimenaRth> ?
+[03:45:30] [Server thread/INFO]: [Not Secure] <TonyStkMC> que
+[03:45:35] [Server thread/INFO]: [Not Secure] <TonyStkMC> pinche autista
+[03:45:38] [Server thread/INFO]: [Not Secure] <XimenaRth> JAJAJJA
+[03:45:39] [Server thread/INFO]: [Not Secure] <TonyStkMC> pones un signode interrogacion de la nada
+[03:45:44] [Server thread/INFO]: [Not Secure] <XimenaRth> que
+[03:45:45] [Server thread/INFO]: [Not Secure] <XimenaRth> pues
+[03:45:48] [Server thread/INFO]: [Not Secure] <XimenaRth> ando con dudad
+[03:45:51] [Server thread/INFO]: [Not Secure] <XimenaRth> duda*
+[03:45:52] [Server thread/INFO]: [Not Secure] <XimenaRth> we
+[03:45:54] [Server thread/INFO]: [Not Secure] <TonyStkMC> pues di eso weyu
+[03:45:55] [Server thread/INFO]: [Not Secure] <TonyStkMC> nomames
+[03:45:57] [Server thread/INFO]: [Not Secure] <XimenaRth> el autista eres tu
+[03:45:57] [Server thread/INFO]: [Not Secure] <TonyStkMC> q naco
+[03:46:02] [Server thread/INFO]: [Not Secure] <TonyStkMC> pareces jugador de lol creido
+[03:46:14] [Server thread/INFO]: [Not Secure] <XimenaRth> no mames y eso que tu juegas lol
+[03:46:15] [Server thread/INFO]: [Not Secure] <XimenaRth> y yo no
+[03:46:17] [Server thread/INFO]: [Not Secure] <TonyStkMC> si xd
+[03:46:19] [Server thread/INFO]: [Not Secure] <TonyStkMC> pero yuo no so6y asi
+[03:46:20] [Server thread/INFO]: [Not Secure] <TonyStkMC> de mamon
+[03:46:25] [Server thread/INFO]: [Not Secure] <XimenaRth> ora
+[03:46:26] [Server thread/INFO]: [Not Secure] <XimenaRth> no jodas
+[03:46:33] [Server thread/INFO]: [Not Secure] <TonyStkMC> si jodo
+[03:46:38] [Server thread/INFO]: [Not Secure] <XimenaRth> pinche gay
+[03:46:40] [Server thread/INFO]: [Not Secure] <TonyStkMC> qeu
+[03:46:41] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAA
+[03:46:42] [Server thread/INFO]: [Not Secure] <TonyStkMC> tyu
+[03:46:43] [Server thread/INFO]: [Not Secure] <TonyStkMC> pinche
+[03:46:43] [Server thread/INFO]: [Not Secure] <XimenaRth> por eso no me contestaste esa vez
+[03:46:44] [Server thread/INFO]: [Not Secure] <TonyStkMC> hay
+[03:46:46] [Server thread/INFO]: [Not Secure] <TonyStkMC> gei
+[03:46:47] [Server thread/INFO]: [Not Secure] <TonyStkMC> que
+[03:46:47] [Server thread/INFO]: [Not Secure] <TonyStkMC> que
+[03:46:48] [Server thread/INFO]: [Not Secure] <TonyStkMC> QUE
+[03:46:50] [Server thread/INFO]: [Not Secure] <TonyStkMC> cuando
+[03:46:56] [Server thread/INFO]: [Not Secure] <XimenaRth> te acuerdas del erigay?
+[03:46:58] [Server thread/INFO]: [Not Secure] <XimenaRth> y que te ofendiste
+[03:47:01] [Server thread/INFO]: [Not Secure] <TonyStkMC> xd
+[03:47:02] [Server thread/INFO]: [Not Secure] <XimenaRth> asi bien masizo
+[03:47:25] [Server thread/INFO]: [Not Secure] <TonyStkMC> eres autista?

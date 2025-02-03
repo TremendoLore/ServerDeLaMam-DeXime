@@ -34,6 +34,7 @@
       "minecraft:cherry_grove": "2025-01-10 05:37:27 +0000",
       "minecraft:river": "2025-01-10 06:36:16 +0000",
       "minecraft:forest": "2025-01-13 01:29:36 +0000",
+      "minecraft:flower_forest": "2025-02-03 03:24:46 +0000",
       "minecraft:meadow": "2025-01-10 06:36:44 +0000",
       "minecraft:plains": "2025-01-10 05:23:54 +0000"
     },
@@ -4847,6 +4848,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-03 03:07:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/crimson_boat": {
     "criteria": {
       "has_crimson_planks": "2025-02-03 03:09:26 +0000"
@@ -4876,12 +4883,6 @@
       "got_crimson": "2025-02-03 03:09:26 +0000"
     },
     "done": false
-  },
-  "betternether:recipes/decorations/crimson_composter": {
-    "criteria": {
-      "has_crimson_slab": "2025-02-03 03:09:31 +0000"
-    },
-    "done": true
   },
   "betternether:recipes/decorations/crimson_barrel": {
     "criteria": {
@@ -4913,12 +4914,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-02-03 03:09:31 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/crimson_crafting_table": {
     "criteria": {
       "has_crimson_planks": "2025-02-03 03:09:26 +0000"
@@ -4928,12 +4923,6 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-03 03:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-02-03 03:07:26 +0000"
     },
     "done": true
   },
@@ -4949,9 +4938,45 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/crimson_composter": {
+    "criteria": {
+      "has_crimson_slab": "2025-02-03 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-03 03:09:31 +0000"
+    },
+    "done": true
+  },
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-02-03 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-03 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-03 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-03 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-03 03:32:46 +0000"
     },
     "done": true
   },

@@ -2538,6 +2538,7 @@
       "minecraft:creeper": "2025-01-11 00:23:46 +0000",
       "minecraft:cave_spider": "2025-02-03 01:28:24 +0000",
       "minecraft:piglin": "2025-01-11 23:35:22 +0000",
+      "minecraft:enderman": "2025-02-03 03:22:14 +0000",
       "minecraft:zombie": "2025-01-11 00:20:10 +0000"
     },
     "done": false
@@ -6146,6 +6147,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-03 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-03 03:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-03 03:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-02-03 02:53:24 +0000"
@@ -6155,6 +6174,18 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-02-03 02:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-03 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-03 03:43:53 +0000"
     },
     "done": true
   },
@@ -6173,6 +6204,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-03 01:28:43 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/misc/scorched_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-03 03:43:50 +0000"
     },
     "done": true
   },
