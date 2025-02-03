@@ -2539,6 +2539,7 @@
       "minecraft:pillager": "2025-01-10 05:19:28 +0000",
       "minecraft:blaze": "2025-01-11 02:01:05 +0000",
       "minecraft:skeleton": "2025-01-11 00:18:29 +0000",
+      "minecraft:magma_cube": "2025-02-03 18:42:00 +0000",
       "minecraft:spider": "2025-01-11 01:01:54 +0000",
       "minecraft:creeper": "2025-01-11 00:23:46 +0000",
       "minecraft:cave_spider": "2025-02-03 01:28:24 +0000",
@@ -6405,15 +6406,21 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-03 04:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-02-03 04:31:33 +0000"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "in_stronghold": "2025-02-03 04:29:38 +0000"
+      "has_warped_fungus": "2025-02-03 18:43:09 +0000"
     },
     "done": true
   },
