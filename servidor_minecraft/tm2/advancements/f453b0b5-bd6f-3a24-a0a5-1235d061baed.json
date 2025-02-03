@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-01-10 05:37:27 +0000",
+      "minecraft:sunflower_plains": "2025-02-03 04:31:58 +0000",
       "minecraft:river": "2025-01-10 06:36:16 +0000",
       "minecraft:forest": "2025-01-13 01:29:36 +0000",
       "minecraft:flower_forest": "2025-02-03 03:24:46 +0000",
