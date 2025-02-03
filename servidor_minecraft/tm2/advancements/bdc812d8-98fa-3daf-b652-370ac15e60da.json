@@ -1912,6 +1912,8 @@
       "minecraft:husk": "2025-01-11 03:00:39 +0000",
       "minecraft:cave_spider": "2025-01-11 00:21:15 +0000",
       "minecraft:piglin": "2025-01-13 02:46:04 +0000",
+      "minecraft:enderman": "2025-02-03 01:55:41 +0000",
+      "minecraft:silverfish": "2025-02-03 02:18:13 +0000",
       "minecraft:zombie": "2025-01-10 06:26:45 +0000",
       "minecraft:drowned": "2025-01-11 02:47:50 +0000"
     },
@@ -7395,6 +7397,24 @@
   "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-02-02 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-03 02:18:09 +0000"
     },
     "done": true
   },
