@@ -2516,8 +2516,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-03 04:08:12 +0000",
       "minecraft:beach": "2025-01-10 05:18:26 +0000",
       "minecraft:river": "2025-01-17 00:20:06 +0000",
+      "minecraft:swamp": "2025-02-03 04:13:23 +0000",
+      "minecraft:forest": "2025-02-03 04:12:58 +0000",
+      "minecraft:ocean": "2025-02-03 04:07:42 +0000",
       "minecraft:flower_forest": "2025-01-17 00:21:28 +0000",
       "minecraft:plains": "2025-01-10 05:17:45 +0000"
     },
@@ -6159,9 +6163,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-03 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-03 04:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-02-03 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
     },
     "done": true
   },
@@ -6177,9 +6223,39 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-02-03 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-03 04:11:46 +0000"
     },
     "done": true
   },
@@ -6189,15 +6265,75 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/palm/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-03 04:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-02-03 02:53:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-02-03 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-03 04:06:44 +0000"
     },
     "done": true
   },
@@ -6210,6 +6346,18 @@
   "wilderwild:recipes/misc/scorched_eye": {
     "criteria": {
       "has_blaze_powder": "2025-02-03 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-03 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-03 04:11:46 +0000"
     },
     "done": true
   },
