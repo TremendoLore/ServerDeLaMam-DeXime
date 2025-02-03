@@ -1166,3 +1166,22 @@ BCLib - The End  BiomeSource (1f83243a)
 [00:25:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cadcf311-69e4-3750-b603-fea575290293
 [00:25:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cadcf311-69e4-3750-b603-fea575290293
 [00:25:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player M1sh4_uwu (cadcf311-69e4-3750-b603-fea575290293) successfully connected to voice chat
+[01:20:22] [Server thread/INFO]: Villager class_1646['Villager'/68, l='ServerLevel[tm2]', x=63.74, y=58.00, z=94.49] died, message: 'Villager burned to death'
+[01:20:27] [Server thread/INFO]: Villager class_1646['Villager'/69, l='ServerLevel[tm2]', x=72.64, y=57.18, z=102.29] died, message: 'Villager tried to swim in lava'
+[01:20:28] [Server thread/INFO]: Villager class_1646['Villager'/9206, l='ServerLevel[tm2]', x=72.44, y=57.65, z=103.02] died, message: 'Villager tried to swim in lava'
+[01:20:32] [Server thread/INFO]: Villager class_1646['Villager'/86, l='ServerLevel[tm2]', x=73.21, y=57.86, z=105.06] died, message: 'Villager tried to swim in lava'
+[01:20:39] [Server thread/INFO]: Villager class_1646['Villager'/7144, l='ServerLevel[tm2]', x=73.70, y=57.00, z=105.40] died, message: 'Villager tried to swim in lava'
+[01:20:53] [Server thread/INFO]: Villager class_1646['Villager'/65, l='ServerLevel[tm2]', x=66.23, y=57.00, z=100.25] died, message: 'Villager burned to death'
+[01:20:53] [Server thread/INFO]: Villager class_1646['Villager'/66, l='ServerLevel[tm2]', x=69.65, y=57.00, z=103.46] died, message: 'Villager burned to death'
+[01:20:58] [Server thread/INFO]: Villager class_1646['Villager'/78, l='ServerLevel[tm2]', x=65.07, y=57.53, z=99.91] died, message: 'Villager tried to swim in lava'
+[01:20:58] [Server thread/INFO]: Villager class_1646['Villager'/80, l='ServerLevel[tm2]', x=66.09, y=57.51, z=98.81] died, message: 'Villager tried to swim in lava'
+[01:21:06] [Server thread/INFO]: Villager class_1646['Villager'/79, l='ServerLevel[tm2]', x=67.90, y=57.00, z=104.48] died, message: 'Villager burned to death'
+[01:21:06] [Server thread/INFO]: Villager class_1646['Villager'/114, l='ServerLevel[tm2]', x=71.68, y=57.00, z=94.51] died, message: 'Villager burned to death'
+[01:21:11] [Server thread/INFO]: Villager class_1646['Villager'/85, l='ServerLevel[tm2]', x=72.54, y=57.37, z=100.36] died, message: 'Villager tried to swim in lava'
+[01:21:11] [Server thread/INFO]: Villager class_1646['Villager'/113, l='ServerLevel[tm2]', x=71.00, y=57.04, z=99.84] died, message: 'Villager tried to swim in lava'
+[01:21:22] [Server thread/INFO]: Villager class_1646['Villager'/82, l='ServerLevel[tm2]', x=65.62, y=57.12, z=91.32] died, message: 'Villager tried to swim in lava'
+[01:21:33] [Server thread/INFO]: Villager class_1646['Villager'/9549, l='ServerLevel[tm2]', x=62.30, y=58.00, z=90.18] died, message: 'Villager burned to death'
+[01:21:42] [Server thread/INFO]: Villager class_1646['Villager'/112, l='ServerLevel[tm2]', x=66.60, y=57.17, z=88.26] died, message: 'Villager tried to swim in lava'
+[01:21:49] [Server thread/INFO]: Villager class_1646['Villager'/67, l='ServerLevel[tm2]', x=73.01, y=57.48, z=101.49] died, message: 'Villager tried to swim in lava'
+[01:22:08] [Server thread/INFO]: Villager class_1646['Villager'/11411, l='ServerLevel[tm2]', x=71.49, y=57.00, z=104.96] died, message: 'Villager tried to swim in lava'
+[01:22:10] [Server thread/INFO]: Villager class_1646['Villager'/11744, l='ServerLevel[tm2]', x=71.90, y=57.29, z=104.52] died, message: 'Villager tried to swim in lava'
