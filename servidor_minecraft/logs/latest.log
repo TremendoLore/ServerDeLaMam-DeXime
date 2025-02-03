@@ -2270,3 +2270,283 @@ BCLib - The End  BiomeSource (1f83243a)
 [03:05:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TonyStkMC (f453b0b5-bd6f-3a24-a0a5-1235d061baed) successfully connected to voice chat
 [03:05:46] [Server thread/INFO]: [Not Secure] <XimenaRth> a mira hablando del rey de roma
 [03:05:47] [Server thread/INFO]: [Not Secure] <TonyStkMC> IJOS DE PUTA
+[03:05:51] [Server thread/INFO]: TonyStkMC lost connection: Disconnected
+[03:05:51] [Server thread/INFO]: TonyStkMC left the game
+[03:05:51] [Server thread/INFO]: [voicechat] Disconnecting client TonyStkMC
+[03:05:54] [Server thread/INFO]: TonyStkMC[/100.113.238.76:49283] logged in with entity id 70305 at (43.65797718307159, 71.7531999805212, 57.137468815560766)
+[03:05:54] [Server thread/INFO]: Sending server config values to client
+[03:05:54] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:05:54] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[03:05:54] [Server thread/INFO]: TonyStkMC joined the game
+[03:05:54] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[03:05:54] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[03:05:55] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:05:55] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:05:55] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:05:55] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:05:55] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:05:55] [Server thread/INFO]: [voicechat] Received secret request of TonyStkMC (18)
+[03:05:55] [Server thread/INFO]: [voicechat] Sent secret to TonyStkMC
+[03:05:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[03:05:58] [Server thread/INFO]: TonyStkMC lost connection: Disconnected
+[03:05:58] [Server thread/INFO]: TonyStkMC left the game
+[03:05:58] [Server thread/INFO]: [voicechat] Disconnecting client TonyStkMC
+[03:06:01] [Server thread/INFO]: Named entity class_1628['Grumm'/68324, l='ServerLevel[tm2]', x=-22.70, y=-23.90, z=361.30] died: Grumm was slain by XimenaRth
+[03:06:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5179ms or 103 ticks behind
+[03:06:01] [Server thread/INFO]: TonyStkMC[/100.113.238.76:49290] logged in with entity id 70500 at (43.65797718307159, 71.7531999805212, 57.137468815560766)
+[03:06:01] [Server thread/INFO]: Sending server config values to client
+[03:06:01] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:06:01] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[03:06:01] [Server thread/INFO]: TonyStkMC joined the game
+[03:06:01] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[03:06:01] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[03:06:01] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:06:01] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:06:01] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:06:01] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:06:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:06:01] [Server thread/INFO]: [voicechat] Received secret request of TonyStkMC (18)
+[03:06:01] [Server thread/INFO]: [voicechat] Sent secret to TonyStkMC
+[03:06:05] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> sal de ahi
+[03:06:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[03:06:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[03:06:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TonyStkMC (f453b0b5-bd6f-3a24-a0a5-1235d061baed) successfully connected to voice chat
+[03:06:10] [Server thread/INFO]: [Not Secure] <TonyStkMC> okei
+[03:06:14] [Server thread/INFO]: [Not Secure] <TonyStkMC> tengo que desactivar
+[03:06:15] [Server thread/INFO]: [Not Secure] <TonyStkMC> ahora
+[03:06:18] [Server thread/INFO]: [Not Secure] <TonyStkMC> la makina
+[03:06:18] [Server thread/INFO]: [Not Secure] <TonyStkMC> jkasjkassjkasj
+[03:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4301ms or 86 ticks behind
+[03:06:22] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[03:06:29] [Server thread/INFO]: TonyStkMC lost connection: Disconnected
+[03:06:29] [Server thread/INFO]: TonyStkMC left the game
+[03:06:29] [Server thread/INFO]: [voicechat] Disconnecting client TonyStkMC
+[03:06:32] [Server thread/INFO]: TonyStkMC[/100.113.238.76:49303] logged in with entity id 71045 at (40.69999998807907, 71.18339999681712, 34.01360849782867)
+[03:06:32] [Server thread/INFO]: Sending server config values to client
+[03:06:32] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:06:32] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[03:06:32] [Server thread/INFO]: TonyStkMC joined the game
+[03:06:32] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[03:06:32] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[03:06:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:06:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:06:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:06:32] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:06:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:06:32] [Server thread/INFO]: [voicechat] Received secret request of TonyStkMC (18)
+[03:06:32] [Server thread/INFO]: [voicechat] Sent secret to TonyStkMC
+[03:06:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[03:06:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[03:06:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TonyStkMC (f453b0b5-bd6f-3a24-a0a5-1235d061baed) successfully connected to voice chat
+[03:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
+[03:06:56] [Server thread/INFO]: [Not Secure] <TonyStkMC> es una mamada
+[03:06:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4857ms or 97 ticks behind
+[03:07:09] [Server thread/INFO]: [Not Secure] <TonyStkMC> NOOO
+[03:07:11] [Server thread/INFO]: [Not Secure] <XimenaRth> diamante
+[03:07:12] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[03:07:13] [Server thread/INFO]: [Not Secure] <TonyStkMC> TENIA EL HEROE DE LA ALDEA
+[03:07:14] [Server thread/INFO]: [Not Secure] <TonyStkMC> PUTAMADRE
+[03:07:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[03:07:20] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[03:07:26] [Server thread/INFO]: TonyStkMC has made the advancement [What a Deal!]
+[03:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[03:07:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
+[03:07:53] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> a tony mira
+[03:07:57] [Server thread/INFO]: [Not Secure] <TonyStkMC> mande
+[03:08:08] [Server thread/INFO]: [Not Secure] <TonyStkMC> q paso
+[03:08:10] [Server thread/INFO]: [Not Secure] <TonyStkMC> mishiktia
+[03:08:12] [Server thread/INFO]: [Not Secure] <TonyStkMC> mishkhita
+[03:08:14] [Server thread/INFO]: [Not Secure] <TonyStkMC> mishita*
+[03:08:14] [Server thread/INFO]: [Not Secure] <TonyStkMC> jkladjasldjad
+[03:08:15] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> armor + la mano
+[03:08:17] [Server thread/INFO]: [Not Secure] <TonyStkMC> que
+[03:08:23] [Server thread/INFO]: [Not Secure] <TonyStkMC> olihset
+[03:08:34] [Server thread/INFO]: [Not Secure] <TonyStkMC> gerardo
+[03:08:46] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> 6 coras xd?
+[03:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03:09:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
+[03:09:38] [Server thread/INFO]: [Not Secure] <XimenaRth> diamante
+[03:09:39] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[03:09:43] [Server thread/INFO]: [Not Secure] <TonyStkMC> asi si te diejran
+[03:09:48] [Server thread/INFO]: [Not Secure] <XimenaRth> aca
+[03:09:49] [Server thread/INFO]: [Not Secure] <XimenaRth> misha
+[03:09:50] [Server thread/INFO]: [Not Secure] <TonyStkMC> me acoste cion tu vieja
+[03:09:52] [Server thread/INFO]: [Not Secure] <TonyStkMC> q dirian?
+[03:09:55] [Server thread/INFO]: [Not Secure] <XimenaRth> que?
+[03:09:58] [Server thread/INFO]: [Not Secure] <XimenaRth> pues
+[03:10:00] [Server thread/INFO]: [Not Secure] <XimenaRth> diria
+[03:10:04] [Server thread/INFO]: [Not Secure] <XimenaRth> porque verga con ella
+[03:10:07] [Server thread/INFO]: [Not Secure] <TonyStkMC> que
+[03:10:07] [Server thread/INFO]: [Not Secure] <XimenaRth> buscate alguien mejor
+[03:10:11] [Server thread/INFO]: [Not Secure] <TonyStkMC> :v
+[03:10:13] [Server thread/INFO]: [Not Secure] <TonyStkMC> xime
+[03:10:15] [Server thread/INFO]: [Not Secure] <TonyStkMC> no entendiste
+[03:10:17] [Server thread/INFO]: [Not Secure] <TonyStkMC> osea
+[03:10:19] [Server thread/INFO]: [Not Secure] <TonyStkMC> si te diejran
+[03:10:23] [Server thread/INFO]: [Not Secure] <TonyStkMC> me acoste con tu vieja
+[03:10:24] [Server thread/INFO]: [Not Secure] <TonyStkMC> q diorias?
+[03:10:31] [Server thread/INFO]: [Not Secure] <XimenaRth> vieja? madre o
+[03:10:33] [Server thread/INFO]: [Not Secure] <XimenaRth> otra cosa?
+[03:10:37] [Server thread/INFO]: [Not Secure] <TonyStkMC> vuiea
+[03:10:38] [Server thread/INFO]: [Not Secure] <TonyStkMC> bnovia
+[03:10:39] [Server thread/INFO]: [Not Secure] <TonyStkMC> novio
+[03:10:40] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[03:10:40] [Server thread/INFO]: [Not Secure] <TonyStkMC> viejo
+[03:10:41] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[03:10:41] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[03:10:42] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[03:10:42] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[03:10:42] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[03:10:44] [Server thread/INFO]: [Not Secure] <XimenaRth> no pues
+[03:10:46] [Server thread/INFO]: [Not Secure] <XimenaRth> te mataria
+[03:10:52] [Server thread/INFO]: [Not Secure] <TonyStkMC> verga
+[03:11:08] [Server thread/INFO]: [Not Secure] <XimenaRth> aca
+[03:11:09] [Server thread/INFO]: [Not Secure] <XimenaRth> misha
+[03:11:38] [Server thread/INFO]: [Not Secure] <XimenaRth> y a que viene esa pregunta?
+[03:11:39] [Server thread/INFO]: [Not Secure] <XimenaRth> :V
+[03:11:47] [Server thread/INFO]: [Not Secure] <XimenaRth> misha
+[03:11:48] [Server thread/INFO]: [Not Secure] <XimenaRth> aca
+[03:11:52] [Server thread/INFO]: [Not Secure] <XimenaRth> hay lapizlazuli
+[03:12:36] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> un spawner de leos
+[03:12:38] [Server thread/INFO]: [Not Secure] <TonyStkMC> esqye
+[03:12:39] [Server thread/INFO]: [Not Secure] <TonyStkMC> no se
+[03:12:41] [Server thread/INFO]: [Not Secure] <TonyStkMC> nomas
+[03:12:42] [Server thread/INFO]: [Not Secure] <TonyStkMC> qwueria saber
+[03:12:44] [Server thread/INFO]: [Not Secure] <TonyStkMC> su honesta
+[03:12:46] [Server thread/INFO]: [Not Secure] <TonyStkMC> reacciones
+[03:12:50] [Server thread/INFO]: [Not Secure] <TonyStkMC> reaccion
+[03:12:50] [Server thread/INFO]: [Not Secure] <TonyStkMC> jklASDJASD
+[03:12:52] [Server thread/INFO]: [Not Secure] <XimenaRth> hmmm apoco?
+[03:12:54] [Server thread/INFO]: [Not Secure] <TonyStkMC> si
+[03:12:56] [Server thread/INFO]: [Not Secure] <TonyStkMC> lsea
+[03:13:00] [Server thread/INFO]: [Not Secure] <XimenaRth> pues es obvia no crees?
+[03:13:03] [Server thread/INFO]: [Not Secure] <TonyStkMC> no se
+[03:13:07] [Server thread/INFO]: [Not Secure] <TonyStkMC> talvez a uno le vale
+[03:13:08] [Server thread/INFO]: [Not Secure] <TonyStkMC> o a otros no
+[03:13:10] [Server thread/INFO]: [Not Secure] <XimenaRth> ora
+[03:13:23] [Server thread/INFO]: [Not Secure] <XimenaRth> eso es la cosa mas rara que alguien diria
+[03:13:34] [Server thread/INFO]: [Not Secure] <TonyStkMC> jklasd
+[03:13:40] [Server thread/INFO]: [Not Secure] <XimenaRth> no me jodas se creeria el prota de rent a girlfriend
+[03:13:41] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> WAT
+[03:13:43] [Server thread/INFO]: [Not Secure] <XimenaRth> y porque verga me oegas
+[03:13:44] [Server thread/INFO]: [Not Secure] <TonyStkMC> no quiero volver a la pinche escuekta
+[03:13:45] [Server thread/INFO]: [Not Secure] <TonyStkMC> demierda
+[03:13:45] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> XIME
+[03:13:47] [Server thread/INFO]: [Not Secure] <TonyStkMC> cagada
+[03:13:48] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> TE PEGUE CON EL PICO
+[03:13:50] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> QUE PEDO
+[03:13:53] [Server thread/INFO]: [Not Secure] <XimenaRth> okay misha
+[03:13:54] [Server thread/INFO]: [Not Secure] <XimenaRth> adios
+[03:13:55] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[03:13:55] [Server thread/INFO]: XimenaRth left the game
+[03:13:55] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[03:13:58] [Server thread/INFO]: [Not Secure] <TonyStkMC> MUISHA DIJO QUE PEDO?
+[03:13:58] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> :v
+[03:14:01] [Server thread/INFO]: [Not Secure] <TonyStkMC> NOMAMES
+[03:14:05] [Server thread/INFO]: [Not Secure] <TonyStkMC> FAKIN
+[03:14:08] [Server thread/INFO]: [Not Secure] <TonyStkMC> COSA RARA
+[03:14:25] [Server thread/INFO]: [Not Secure] <TonyStkMC> mas rara q
+[03:14:26] [Server thread/INFO]: [Not Secure] <TonyStkMC> un
+[03:14:30] [Server thread/INFO]: [Not Secure] <TonyStkMC> misha shiny
+[03:14:33] [Server thread/INFO]: XimenaRth[/100.90.53.102:62642] logged in with entity id 75285 at (-60.288412750579056, -20.0, 310.6038715116398)
+[03:14:33] [Server thread/INFO]: Sending server config values to client
+[03:14:33] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:14:33] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[03:14:33] [Server thread/INFO]: XimenaRth joined the game
+[03:14:33] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[03:14:33] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[03:14:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:14:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:14:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:14:33] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:14:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:14:33] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[03:14:33] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[03:14:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[03:14:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[03:14:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[03:14:44] [Server thread/INFO]: [Not Secure] <XimenaRth> okay sacaste un vergo con eso
+[03:14:46] [Server thread/INFO]: [Not Secure] <XimenaRth> no lo hagas
+[03:14:46] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[03:14:51] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> bueno
+[03:14:59] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> solo pq me lo pides tu
+[03:15:01] [Server thread/INFO]: [Not Secure] <XimenaRth> lit manotazo y me mandas al lobby
+[03:15:09] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> tony :3
+[03:15:14] [Server thread/INFO]: [Not Secure] <TonyStkMC> m,anmde+
+[03:15:17] [Server thread/INFO]: [Not Secure] <XimenaRth> corre
+[03:15:18] [Server thread/INFO]: [Not Secure] <XimenaRth> we
+[03:15:41] [Server thread/INFO]: [Not Secure] <TonyStkMC> que
+[03:15:41] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> acepta tony :3
+[03:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03:15:44] [Server thread/INFO]: [Not Secure] <TonyStkMC> para que o que
+[03:15:45] [Server thread/INFO]: [Not Secure] <TonyStkMC> no
+[03:15:46] [Server thread/INFO]: [Not Secure] <TonyStkMC> vete
+[03:15:47] [Server thread/INFO]: [Not Secure] <TonyStkMC> alejate de mi
+[03:15:48] [Server thread/INFO]: [Not Secure] <TonyStkMC> pincheputa
+[03:15:49] [Server thread/INFO]: [Not Secure] <XimenaRth> xDDDDDDDDDDDDDDD
+[03:15:50] [Server thread/INFO]: [Not Secure] <TonyStkMC> no es cierto
+[03:15:52] [Server thread/INFO]: [Not Secure] <TonyStkMC> ajaj
+[03:15:53] [Server thread/INFO]: [Not Secure] <TonyStkMC> no quiero
+[03:15:56] [Server thread/INFO]: [Not Secure] <TonyStkMC> yo no hago eso misha
+[03:15:57] [Server thread/INFO]: [Not Secure] <TonyStkMC> osea
+[03:15:58] [Server thread/INFO]: [Not Secure] <XimenaRth> eso vino de corazon que pedo
+[03:15:59] [Server thread/INFO]: [Not Secure] <TonyStkMC> tengo cara de
+[03:15:59] [Server thread/INFO]: [Not Secure] <TonyStkMC> pero
+[03:16:02] [Server thread/INFO]: [Not Secure] <TonyStkMC> no hago esas cosas
+[03:16:03] [Server thread/INFO]: TonyStkMC was shot by M1sh4_uwu
+[03:16:05] [Server thread/INFO]: [Not Secure] <TonyStkMC> QUE
+[03:16:05] [Server thread/INFO]: [Not Secure] <XimenaRth> ALV
+[03:16:06] [Server thread/INFO]: [Not Secure] <XimenaRth> ALV
+[03:16:07] [Server thread/INFO]: [Not Secure] <XimenaRth> QUE

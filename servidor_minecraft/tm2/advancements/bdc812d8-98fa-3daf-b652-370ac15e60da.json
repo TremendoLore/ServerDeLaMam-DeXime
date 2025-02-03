@@ -7400,6 +7400,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-02-03 03:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-02-03 02:18:09 +0000"
@@ -7412,9 +7418,33 @@
     },
     "done": true
   },
+  "wilderwild:recipes/building_blocks/mossy_mud_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-03 03:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-03 03:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-02-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-03 03:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-03 03:03:07 +0000"
     },
     "done": true
   },
