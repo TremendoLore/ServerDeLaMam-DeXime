@@ -3043,6 +3043,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-01-11 02:01:12 +0000",
+      "betternether:bone_reef": "2025-02-03 02:30:25 +0000",
       "betternether:gravel_desert": "2025-01-10 20:59:02 +0000",
       "betternether:flooded_deltas": "2025-01-11 23:21:27 +0000",
       "betternether:old_fungiwoods": "2025-01-11 02:39:32 +0000",

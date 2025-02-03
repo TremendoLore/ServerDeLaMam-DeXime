@@ -1640,3 +1640,193 @@ BCLib - The End  BiomeSource (1f83243a)
 [02:19:59] [Server thread/INFO]: [Not Secure] <XimenaRth> en el mapa
 [02:20:17] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> pues nomas
 [02:24:41] [Server thread/INFO]: [Not Secure] <XimenaRth> maldicion las arañas si asustan
+[02:24:50] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> pq trepan?
+[02:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[02:25:06] [Server thread/INFO]: [Not Secure] <XimenaRth> no porque aparecen donde sea
+[02:25:12] [Server thread/INFO]: [Not Secure] <XimenaRth> entran por ese hueco y por el otro
+[02:25:15] [Server thread/INFO]: [Not Secure] <XimenaRth> dios mio
+[02:25:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6897ms or 137 ticks behind
+[02:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8588ms or 171 ticks behind
+[02:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6076ms or 121 ticks behind
+[02:26:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8726ms or 174 ticks behind
+[02:26:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8356ms or 167 ticks behind
+[02:27:15] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:28:41] [Server thread/INFO]: [Not Secure] <XimenaRth> vale me falta 1
+[02:28:48] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> cuantos tienes xd?
+[02:28:50] [Server thread/INFO]: TonyStkMC[/100.113.238.76:65359] logged in with entity id 44465 at (101.30000001192093, 62.0, 104.30000001192093)
+[02:28:50] [Server thread/INFO]: Sending server config values to client
+[02:28:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:28:50] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[02:28:50] [Server thread/INFO]: TonyStkMC joined the game
+[02:28:50] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f453b0b5-bd6f-3a24-a0a5-1235d061baed'.
+[02:28:50] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[02:28:51] [Server thread/INFO]: [Not Secure] <XimenaRth> 8
+[02:28:51] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:28:51] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:28:51] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:28:51] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:28:51] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:28:51] [Server thread/INFO]: [voicechat] Received secret request of TonyStkMC (18)
+[02:28:51] [Server thread/INFO]: [voicechat] Sent secret to TonyStkMC
+[02:28:52] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[02:28:54] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> no pues
+[02:28:56] [Server thread/INFO]: [Not Secure] <XimenaRth> hola tony
+[02:28:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[02:28:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f453b0b5-bd6f-3a24-a0a5-1235d061baed
+[02:28:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TonyStkMC (f453b0b5-bd6f-3a24-a0a5-1235d061baed) successfully connected to voice chat
+[02:28:59] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> ahora ocupo 13 :v
+[02:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:29:01] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> hola tony
+[02:29:01] [Server thread/INFO]: [Not Secure] <XimenaRth> ALV
+[02:29:01] [Server thread/INFO]: [Not Secure] <TonyStkMC> cabronas
+[02:29:05] [Server thread/INFO]: [Not Secure] <TonyStkMC> ijas deperra
+[02:29:07] [Server thread/INFO]: [Not Secure] <XimenaRth> 13?
+[02:29:08] [Server thread/INFO]: [Not Secure] <TonyStkMC> aesta madre
+[02:29:09] [Server thread/INFO]: [Not Secure] <XimenaRth> tmr
+[02:29:14] [Server thread/INFO]: [Not Secure] <XimenaRth> bueno toco poner 5 mas
+[02:29:14] [Server thread/INFO]: [Not Secure] <TonyStkMC> le quedan 28 horas
+[02:29:16] [Server thread/INFO]: [Not Secure] <TonyStkMC> alaerga
+[02:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
+[02:29:22] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[02:29:23] [Server thread/INFO]: [Not Secure] <TonyStkMC> tengo que vincularla a otra cuenta
+[02:29:25] [Server thread/INFO]: [Not Secure] <TonyStkMC> chabal
+[02:29:28] [Server thread/INFO]: [Not Secure] <TonyStkMC> ya se
+[02:29:28] [Server thread/INFO]: [Not Secure] <XimenaRth> Xdddddddddddddddddddddd
+[02:29:29] [Server thread/INFO]: [Not Secure] <TonyStkMC> a
+[02:29:30] [Server thread/INFO]: [Not Secure] <TonyStkMC> la de
+[02:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
+[02:29:37] [Server thread/INFO]: [Not Secure] <TonyStkMC> darkusxmisha.github
+[02:29:39] [Server thread/INFO]: [Not Secure] <TonyStkMC> gg
+[02:29:42] [Server thread/INFO]: [Not Secure] <TonyStkMC> a esa mero
+[02:29:42] [Server thread/INFO]: [Not Secure] <XimenaRth> JAJAJA
+[02:29:44] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> :V
+[02:30:03] [Server thread/INFO]: [Not Secure] <TonyStkMC> y loooooos eskibidiiiis
+[02:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:30:06] [Server thread/INFO]: [Not Secure] <XimenaRth> te imaginas tengas que llegar al punto de hacer tantas cuentas que tendran los nombres de diferentes ships?
+[02:30:07] [Server thread/INFO]: [Not Secure] <TonyStkMC> y los toileeeeers
+[02:30:11] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAJJAAJ
+[02:30:12] [Server thread/INFO]: [Not Secure] <TonyStkMC> ALAMADRE
+[02:30:14] [Server thread/INFO]: [Not Secure] <TonyStkMC> te imaginas?
+[02:30:15] [Server thread/INFO]: [Not Secure] <TonyStkMC> q feo szeria
+[02:30:18] [Server thread/INFO]: [Not Secure] <XimenaRth> JJAJAJA
+[02:30:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02:30:24] [Server thread/INFO]: [Not Secure] <XimenaRth> yo quiero ver que se te ocurre
+[02:30:25] [Server thread/INFO]: [Not Secure] <TonyStkMC> ernestoxxime.github
+[02:30:29] [Server thread/INFO]: [Not Secure] <XimenaRth> no way :skull:
+[02:30:33] [Server thread/INFO]: [Not Secure] <TonyStkMC> :skull:
+[02:30:34] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:30:34] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:30:34] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:30:34] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:30:35] [Server thread/INFO]: [Not Secure] <XimenaRth> eso jamas
+[02:30:36] [Server thread/INFO]: [Not Secure] <XimenaRth> we
+[02:30:37] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAJAAJAJ
+[02:30:42] [Server thread/INFO]: [Not Secure] <TonyStkMC> ernestoxmisha.github
+[02:30:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02:30:45] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> no.
+[02:30:47] [Server thread/INFO]: [Not Secure] <XimenaRth> AJAJAJA
+[02:30:47] [Server thread/INFO]: [Not Secure] <TonyStkMC> No.
+[02:30:50] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAAAJ
+[02:30:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:30:59] [Server thread/INFO]: [Not Secure] <XimenaRth> ernestoxtony.github?
+[02:31:01] [Server thread/INFO]: [Not Secure] <TonyStkMC> QUEPEDO
+[02:31:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:31:17] [Server thread/INFO]: [Not Secure] <XimenaRth> tony tienes carbon?
+[02:31:23] [Server thread/INFO]: [Not Secure] <TonyStkMC> gaxsey
+[02:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[02:31:25] [Server thread/INFO]: [Not Secure] <TonyStkMC> que
+[02:31:26] [Server thread/INFO]: [Not Secure] <TonyStkMC> aah
+[02:31:28] [Server thread/INFO]: [Not Secure] <XimenaRth> que?
+[02:31:28] [Server thread/INFO]: [Not Secure] <TonyStkMC> nose
+[02:31:30] [Server thread/INFO]: [Not Secure] <TonyStkMC> deja veo
+[02:31:31] [Server thread/INFO]: [Not Secure] <TonyStkMC> nada xime
+[02:31:32] [Server thread/INFO]: [Not Secure] <TonyStkMC> NADA
+[02:31:33] [Server thread/INFO]: [Not Secure] <TonyStkMC> NO LO LEAS
+[02:31:34] [Server thread/INFO]: [Not Secure] <TonyStkMC> XIME
+[02:31:35] [Server thread/INFO]: [Not Secure] <TonyStkMC> PERDON
+[02:31:35] [Server thread/INFO]: [Not Secure] <XimenaRth> tmr
+[02:31:38] [Server thread/INFO]: [Not Secure] <TonyStkMC> ERA UNA MAMADA
+[02:31:39] [Server thread/INFO]: [Not Secure] <TonyStkMC> XIME
+[02:31:39] [Server thread/INFO]: [Not Secure] <TonyStkMC> PERDON
+[02:31:46] [Server thread/INFO]: [Not Secure] <XimenaRth> no pus tu we tus fantasias
+[02:31:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:31:48] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAJAAJ
+[02:31:49] [Server thread/INFO]: [Not Secure] <TonyStkMC> NOO
+[02:31:49] [Server thread/INFO]: [Not Secure] <TonyStkMC> XIME
+[02:31:49] [Server thread/INFO]: [Not Secure] <XimenaRth> pero ya sabemos
+[02:31:51] [Server thread/INFO]: [Not Secure] <TonyStkMC> OSEA
+[02:31:52] [Server thread/INFO]: [Not Secure] <TonyStkMC> ES UNA MAMDA
+[02:31:52] [Server thread/INFO]: [Not Secure] <TonyStkMC> XDIME
+[02:31:58] [Server thread/INFO]: [Not Secure] <XimenaRth> no intentes arreglarlo
+[02:31:59] [Server thread/INFO]: [Not Secure] <TonyStkMC> tengo 17 de carbon chabal
+[02:32:05] [Server thread/INFO]: [Not Secure] <XimenaRth> va me regalas?
+[02:32:12] [Server thread/INFO]: [Not Secure] <TonyStkMC> si
+[02:32:13] [Server thread/INFO]: [Not Secure] <TonyStkMC> ven por ellos
+[02:32:14] [Server thread/INFO]: [Not Secure] <TonyStkMC> perra
+[02:32:24] [Server thread/INFO]: [Not Secure] <TonyStkMC> omagiad
+[02:32:28] [Server thread/INFO]: [Not Secure] <TonyStkMC> QUE
+[02:32:29] [Server thread/INFO]: [Not Secure] <XimenaRth> omaigad
+[02:32:30] [Server thread/INFO]: [Not Secure] <XimenaRth> no way
+[02:32:31] [Server thread/INFO]: [Not Secure] <TonyStkMC> ESTABA EL ESSENTIALS?
+[02:32:32] [Server thread/INFO]: [Not Secure] <XimenaRth> tony
+[02:32:33] [Server thread/INFO]: [Not Secure] <XimenaRth> be like
+[02:32:34] [Server thread/INFO]: [Not Secure] <TonyStkMC> strongest mod
+[02:32:36] [Server thread/INFO]: [Not Secure] <TonyStkMC> gg ez
+[02:32:38] [Server thread/INFO]: [Not Secure] <TonyStkMC> quiien lo puso
+[02:32:39] [Server thread/INFO]: [Not Secure] <TonyStkMC> es el mejor
+[02:32:40] [Server thread/INFO]: [Not Secure] <TonyStkMC> lo amo
+[02:32:42] [Server thread/INFO]: [Not Secure] <TonyStkMC> le cromaria
+[02:32:44] [Server thread/INFO]: [Not Secure] <TonyStkMC> la berga
+[02:32:45] [Server thread/INFO]: [Not Secure] <TonyStkMC> ahortiamismo
+[02:32:52] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> why
+[02:32:53] [Server thread/INFO]: [Not Secure] <XimenaRth> gracias
+[02:32:54] [Server thread/INFO]: [Not Secure] <XimenaRth> tony
+[02:32:54] [Server thread/INFO]: [Not Secure] <TonyStkMC> pñorque
+[02:32:55] [Server thread/INFO]: [Not Secure] <TonyStkMC> si
+[02:32:56] [Server thread/INFO]: [Not Secure] <XimenaRth> te quiero mucho
+[02:32:57] [Server thread/INFO]: [Not Secure] <TonyStkMC> es el mejor mod misha
+[02:33:00] [Server thread/INFO]: [Not Secure] <TonyStkMC> yo tambien pinche xime
+[02:33:02] [Server thread/INFO]: [Not Secure] <TonyStkMC> no olvides
+[02:33:03] [Server thread/INFO]: [Not Secure] <TonyStkMC> que res mi perra
+[02:33:04] [Server thread/INFO]: [Not Secure] <TonyStkMC> alaberga
+[02:33:06] [Server thread/INFO]: [Not Secure] <XimenaRth> que
+[02:33:07] [Server thread/INFO]: [Not Secure] <XimenaRth> wft
+[02:33:08] [Server thread/INFO]: [Not Secure] <XimenaRth> porque
+[02:33:10] [Server thread/INFO]: [Not Secure] <TonyStkMC> no se
+[02:33:12] [Server thread/INFO]: [Not Secure] <TonyStkMC> eres bienez
+[02:33:12] [Server thread/INFO]: [Not Secure] <TonyStkMC> jajaajaj
+[02:33:13] [Server thread/INFO]: [Not Secure] <XimenaRth> primero era la perra de todos
+[02:33:15] [Server thread/INFO]: [Not Secure] <XimenaRth> luego de misha
+[02:33:17] [Server thread/INFO]: [Not Secure] <XimenaRth> y ahora tuya?
+[02:33:18] [Server thread/INFO]: [Not Secure] <TonyStkMC> JAJAJA
+[02:33:18] [Server thread/INFO]: [Not Secure] <XimenaRth> no mames
+[02:33:18] [Server thread/INFO]: [Not Secure] <TonyStkMC> alv
+[02:33:25] [Server thread/INFO]: [Not Secure] <TonyStkMC> no mejor
+[02:33:25] [Server thread/INFO]: [Not Secure] <TonyStkMC> no
+[02:33:29] [Server thread/INFO]: [Not Secure] <TonyStkMC> cosas q pasan por manos de misha
+[02:33:29] [Server thread/INFO]: [Not Secure] <XimenaRth> aca no misha
+[02:33:30] [Server thread/INFO]: [Not Secure] <TonyStkMC> no son mias
+[02:33:31] [Server thread/INFO]: [Not Secure] <XimenaRth> pera
+[02:33:35] [Server thread/INFO]: [Not Secure] <XimenaRth> ahora si
+[02:33:49] [Server thread/INFO]: [Not Secure] <XimenaRth> que
+[02:33:51] [Server thread/INFO]: [Not Secure] <TonyStkMC> qy9e
+[02:34:14] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[02:34:15] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> pq pelean
+[02:34:18] [Server thread/INFO]: [Not Secure] <TonyStkMC> la xime
+[02:34:19] [Server thread/INFO]: [Not Secure] <XimenaRth> porque no se rompio el escudo?
+[02:34:32] [Server thread/INFO]: [Not Secure] <TonyStkMC> porque eres bien bot
+[02:34:34] [Server thread/INFO]: [Not Secure] <TonyStkMC> noob
+[02:34:38] [Server thread/INFO]: [Not Secure] <XimenaRth> idk pero te pegue we

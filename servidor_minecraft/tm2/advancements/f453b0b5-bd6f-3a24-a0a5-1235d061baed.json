@@ -4769,21 +4769,33 @@
     },
     "done": true
   },
-  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
-    "criteria": {
-      "has_ram_armor_trim_smithing_template": "2025-01-13 02:20:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-13 02:16:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-13 02:16:26 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ram_armor_trim_smithing_template": "2025-01-13 02:20:47 +0000"
+    },
+    "done": true
+  },
   "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-13 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-13 02:21:19 +0000"
     },
     "done": true
   },
@@ -4796,18 +4808,6 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-01-13 02:25:11 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/sweet_berry_jelly_potion": {
-    "criteria": {
-      "has_sweet_berries": "2025-01-13 02:21:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-13 02:16:26 +0000"
     },
     "done": true
   },
