@@ -2535,6 +2535,7 @@
       "minecraft:skeleton": "2025-01-11 00:18:29 +0000",
       "minecraft:spider": "2025-01-11 01:01:54 +0000",
       "minecraft:creeper": "2025-01-11 00:23:46 +0000",
+      "minecraft:cave_spider": "2025-02-03 01:28:24 +0000",
       "minecraft:piglin": "2025-01-11 23:35:22 +0000",
       "minecraft:zombie": "2025-01-11 00:20:10 +0000"
     },
@@ -6139,6 +6140,12 @@
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2025-02-02 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-03 01:28:43 +0000"
     },
     "done": true
   },

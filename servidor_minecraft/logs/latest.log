@@ -1185,3 +1185,267 @@ BCLib - The End  BiomeSource (1f83243a)
 [01:21:49] [Server thread/INFO]: Villager class_1646['Villager'/67, l='ServerLevel[tm2]', x=73.01, y=57.48, z=101.49] died, message: 'Villager tried to swim in lava'
 [01:22:08] [Server thread/INFO]: Villager class_1646['Villager'/11411, l='ServerLevel[tm2]', x=71.49, y=57.00, z=104.96] died, message: 'Villager tried to swim in lava'
 [01:22:10] [Server thread/INFO]: Villager class_1646['Villager'/11744, l='ServerLevel[tm2]', x=71.90, y=57.29, z=104.52] died, message: 'Villager tried to swim in lava'
+[01:27:01] [Server thread/INFO]: XimenaRth[/100.90.53.102:62040] logged in with entity id 13066 at (77.91727088158318, 68.0, 99.026607334038)
+[01:27:01] [Server thread/INFO]: Sending server config values to client
+[01:27:01] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:27:01] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:27:01] [Server thread/INFO]: XimenaRth joined the game
+[01:27:01] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:27:02] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[01:27:04] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:27:04] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:27:04] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:27:04] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:27:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:27:04] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[01:27:04] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[01:27:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:27:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:27:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[01:27:21] [Server thread/INFO]: [Not Secure] <XimenaRth> oye, sabias que en terminos de reproducción entre hombres humanos y Pokémon hembras, Vaporeon es el Pokémon mas compatible para los Humanos?No solo porque están en el Grupo Huevo Campo, que está principalmente conformado por Mamíferos, Vaporeon tiene en pr
+[01:27:57] [Server thread/INFO]: [Not Secure] <XimenaRth> que
+[01:27:59] [Server thread/INFO]: [Not Secure] <XimenaRth> le paso
+[01:28:01] [Server thread/INFO]: [Not Secure] <XimenaRth> a tu armord
+[01:28:02] [Server thread/INFO]: [Not Secure] <XimenaRth> XD
+[01:28:08] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> no quiero que se rompa :v
+[01:28:11] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[01:28:11] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> la tengo en mi inv
+[01:28:15] [Server thread/INFO]: [Not Secure] <XimenaRth> a ya
+[01:28:24] [Server thread/INFO]: Named entity class_1549['Grumm'/12977, l='ServerLevel[tm2]', x=74.70, y=61.50, z=96.65] died: Grumm was slain by M1sh4_uwu
+[01:28:33] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> hay que iluminar aqui
+[01:28:38] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> habia una araña XD
+[01:28:41] [Server thread/INFO]: [Not Secure] <XimenaRth> voy
+[01:29:20] [Server thread/INFO]: [Not Secure] <XimenaRth> alv otra cueva xd
+[01:29:25] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> si
+[01:29:54] [Server thread/INFO]: [Not Secure] <XimenaRth> ALV LA INFLACION SI ESTA CAÑON
+[01:29:58] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> :V
+[01:30:02] [Server thread/INFO]: [Not Secure] <XimenaRth> como que 20
+[01:30:19] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> a mimir
+[01:30:21] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> :3
+[01:31:09] [Server thread/INFO]: [Not Secure] <XimenaRth> cuando se acaba el invierno :v=?
+[01:31:14] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> nose :v
+[01:32:21] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[01:32:21] [Server thread/INFO]: XimenaRth left the game
+[01:32:21] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[01:32:24] [Server thread/INFO]: XimenaRth[/100.90.53.102:62102] logged in with entity id 14199 at (34.142871919548156, 78.0, 59.023156887991796)
+[01:32:24] [Server thread/INFO]: Sending server config values to client
+[01:32:24] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:32:24] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:32:24] [Server thread/INFO]: XimenaRth joined the game
+[01:32:24] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:32:24] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[01:32:24] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:32:24] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:32:24] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:32:24] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:32:24] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:32:24] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[01:32:24] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[01:32:28] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> on tas
+[01:32:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:32:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:32:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[01:32:36] [Server thread/INFO]: [Not Secure] <XimenaRth> en la otra casa
+[01:32:42] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> a
+[01:32:44] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> te veo :3
+[01:32:54] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[01:32:54] [Server thread/INFO]: XimenaRth left the game
+[01:32:54] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[01:32:56] [Server thread/INFO]: XimenaRth[/100.90.53.102:62105] logged in with entity id 14327 at (32.97441971386168, 78.0, 57.23592286464168)
+[01:32:56] [Server thread/INFO]: Sending server config values to client
+[01:32:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:32:56] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:32:56] [Server thread/INFO]: XimenaRth joined the game
+[01:32:56] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:32:56] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[01:32:56] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:32:56] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:32:56] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:32:56] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:32:56] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:32:56] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[01:32:56] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[01:32:57] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> xdd
+[01:33:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:33:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:33:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[01:33:10] [Server thread/INFO]: XimenaRth lost connection: Disconnected
+[01:33:10] [Server thread/INFO]: XimenaRth left the game
+[01:33:10] [Server thread/INFO]: [voicechat] Disconnecting client XimenaRth
+[01:33:12] [Server thread/INFO]: XimenaRth[/100.90.53.102:62113] logged in with entity id 14381 at (33.56098284455037, 79.0, 67.12188416988053)
+[01:33:12] [Server thread/INFO]: Sending server config values to client
+[01:33:12] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:33:12] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:33:12] [Server thread/INFO]: XimenaRth joined the game
+[01:33:12] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'bdc812d8-98fa-3daf-b652-370ac15e60da'.
+[01:33:12] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[01:33:12] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:33:12] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:33:12] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:33:12] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:33:12] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/ServerDeLaMam-DeXime/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:33:12] [Server thread/INFO]: [voicechat] Received secret request of XimenaRth (18)
+[01:33:12] [Server thread/INFO]: [voicechat] Sent secret to XimenaRth
+[01:33:17] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> strongest chunks
+[01:33:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:33:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bdc812d8-98fa-3daf-b652-370ac15e60da
+[01:33:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XimenaRth (bdc812d8-98fa-3daf-b652-370ac15e60da) successfully connected to voice chat
+[01:33:21] [Server thread/INFO]: [Not Secure] <XimenaRth> FUGA
+[01:33:42] [Server thread/INFO]: [Not Secure] <XimenaRth> ahora porque esos chunks nos sacan xd?
+[01:33:48] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> son esos
+[01:33:49] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> namas
+[01:33:51] [Server thread/INFO]: [Not Secure] <XimenaRth> nunca entendi que sucdeio
+[01:33:56] [Server thread/INFO]: [Not Secure] <XimenaRth> sucedio*
+[01:34:22] [Server thread/INFO]: Loading config WWItemConfig from wilderwild
+[01:34:22] [Server thread/INFO]: Saving config WWItemConfig from wilderwild
+[01:34:22] [Server thread/INFO]: Saving config WWItemConfig from wilderwild
+[01:34:24] [Server thread/INFO]: [Not Secure] <XimenaRth> AJAJJAA
+[01:34:25] [Server thread/INFO]: [Not Secure] <XimenaRth> QUE
+[01:34:26] [Server thread/INFO]: [Not Secure] <XimenaRth> CUANDO
+[01:34:28] [Server thread/INFO]: [Not Secure] <XimenaRth> COMO
+[01:34:31] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> :C
+[01:34:32] [Server thread/INFO]: [Not Secure] <XimenaRth> eso no me la sabia
+[01:34:33] [Server thread/INFO]: [Not Secure] <XimenaRth> eh
+[01:34:34] [Server thread/INFO]: [Not Secure] <XimenaRth> XD
+[01:34:36] [Server thread/INFO]: [Not Secure] <XimenaRth> pense que rebotaria
+[01:34:42] [Server thread/INFO]: [Not Secure] <XimenaRth> aver tu con la tuya
+[01:34:47] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> no tiene piercing
+[01:34:55] [Server thread/INFO]: [Not Secure] <XimenaRth> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[01:35:00] [Server thread/INFO]: [Not Secure] <XimenaRth> :V
+[01:35:03] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> :v
+[01:35:14] [Server thread/INFO]: [Not Secure] <XimenaRth> esa cosa me saca la chucha
+[01:35:17] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> :v
+[01:35:56] [Server thread/INFO]: [Not Secure] <XimenaRth> arruine ese cuerno :c
+[01:35:58] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> xdd
+[01:36:00] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> xime
+[01:36:03] [Server thread/INFO]: [Not Secure] <XimenaRth> dime
+[01:36:03] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> crees que llegue
+[01:36:10] [Server thread/INFO]: [Not Secure] <XimenaRth> ?
+[01:36:12] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> de aqui a la piedra esa puntiaguda
+[01:36:17] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> con solo rolls?
+[01:36:20] [Server thread/INFO]: [Not Secure] <XimenaRth> aver
+[01:36:24] [Server thread/INFO]: [Not Secure] <XimenaRth> yo digo que no
+[01:36:37] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[01:36:45] [Server thread/INFO]: [Not Secure] <XimenaRth> los tuyos son mas rapidos
+[01:36:47] [Server thread/INFO]: [Not Secure] <XimenaRth> me parecen
+[01:36:53] [Server thread/INFO]: [Not Secure] <XimenaRth> o creo me tome muchos hongos ayer
+[01:37:00] [Server thread/INFO]: [Not Secure] <XimenaRth> alv
+[01:37:03] [Server thread/INFO]: [Not Secure] <XimenaRth> si tienes un chingo
+[01:37:17] [Server thread/INFO]: [Not Secure] <XimenaRth> es mi despertador
+[01:37:18] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> lo vas a dañar
+[01:37:22] [Server thread/INFO]: [Not Secure] <XimenaRth> xd
+[01:37:25] [Server thread/INFO]: [Not Secure] <XimenaRth> ya esta dañado
+[01:37:27] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> xd
+[01:37:29] [Server thread/INFO]: [Not Secure] <XimenaRth> no importa si lo daño mas
+[01:37:41] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> mejor ve a conseguirme mas diamantes y lapislazuli :3
+[01:37:46] [Server thread/INFO]: [Not Secure] <XimenaRth> XDDDDDDDDDDDDDDDDDDDDDDddd
+[01:37:50] [Server thread/INFO]: [Not Secure] <XimenaRth> como se dice
+[01:37:54] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> plis
+[01:37:58] [Server thread/INFO]: [Not Secure] <XimenaRth> bueno
+[01:38:14] [Server thread/INFO]: [Not Secure] <XimenaRth> grax
+[01:38:28] [Server thread/INFO]: [bclib] Created at class_2338{x=82, y=67, z=104}, Block{betternether:birch_chair}[facing=east,top=false], Block{minecraft:air}
+[01:38:28] [Server thread/INFO]: [bclib] Creating Chair at class_2338{x=82, y=67, z=104}, Block{betternether:birch_chair}[facing=east,top=false]
+[01:38:28] [Server thread/INFO]: [bclib] Created at class_2338{x=82, y=68, z=104}, Block{betternether:birch_chair}[facing=east,top=true], Block{minecraft:air}
+[01:38:37] [Server thread/INFO]: [bclib] Chair Block was deleted -> ejecting
+[01:38:39] [Server thread/INFO]: [bclib] Created at class_2338{x=82, y=67, z=104}, Block{betternether:birch_chair}[facing=west,top=false], Block{minecraft:air}
+[01:38:39] [Server thread/INFO]: [bclib] Creating Chair at class_2338{x=82, y=67, z=104}, Block{betternether:birch_chair}[facing=west,top=false]
+[01:38:39] [Server thread/INFO]: [bclib] Created at class_2338{x=82, y=68, z=104}, Block{betternether:birch_chair}[facing=west,top=true], Block{minecraft:air}
+[01:39:25] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> proteccion magica 4
+[01:39:31] [Server thread/INFO]: [Not Secure] <XimenaRth> que
+[01:39:34] [Server thread/INFO]: [Not Secure] <XimenaRth> el sueño humedo de tony
+[01:39:38] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> xd
+[01:39:44] [Server thread/INFO]: [Not Secure] <XimenaRth> misha
+[01:39:53] [Server thread/INFO]: [Not Secure] <XimenaRth> ya sabes que hace el encantamiento acrobat?
+[01:39:53] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> xime
+[01:39:56] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> si
+[01:40:00] [Server thread/INFO]: [Not Secure] <XimenaRth> que hace
+[01:40:10] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> hace que puedas girar mas rapido
+[01:40:12] [Server thread/INFO]: [Not Secure] <XimenaRth> a
+[01:40:17] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> tiene max nivel 10
+[01:40:21] [Server thread/INFO]: [Not Secure] <XimenaRth> alv
+[01:40:23] [Server thread/INFO]: [Not Secure] <XimenaRth> :skull:
+[01:40:25] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> de hecho intento conseguir ese o fortuna ahorita
+[01:40:35] [Server thread/INFO]: [Not Secure] <XimenaRth> esa vez conseguiste 9
+[01:40:35] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[01:40:40] [Server thread/INFO]: [Not Secure] <XimenaRth> antes de que los mataramos XD
+[01:40:44] [Server thread/INFO]: [Not Secure] <XimenaRth> tony y yo
+[01:40:47] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> lets go fortuna
+[01:41:32] [Server thread/INFO]: [Not Secure] <XimenaRth> wft?
+[01:41:36] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> ?
+[01:41:46] [Server thread/INFO]: [Not Secure] <XimenaRth> wft ranas?
+[01:41:49] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> si
+[01:41:57] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> esas ya hay en mc normal :v
+[01:42:01] [Server thread/INFO]: [Not Secure] <XimenaRth> no osea
+[01:42:14] [Server thread/INFO]: [Not Secure] <XimenaRth> escuche despues que un creeper de naturaleza explotara
+[01:42:14] [Server thread/INFO]: [Not Secure] <XimenaRth> :v
+[01:42:18] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> a
+[01:42:18] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> xd
+[01:42:33] [Server thread/INFO]: [Not Secure] <XimenaRth> que bonito es todo cuando tienes luz
+[01:43:00] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> a mimir
+[01:43:15] [Server thread/INFO]: [Not Secure] <XimenaRth> uy si genia tengo cama aca abajo
+[01:43:19] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> salte :V
+[01:43:27] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> que
+[01:43:27] [Server thread/INFO]: [Not Secure] <XimenaRth> me llevare una
+[01:43:33] [Server thread/INFO]: [Not Secure] <XimenaRth> adios
+[01:43:38] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> a watafa llegaste rapido
+[01:43:42] [Server thread/INFO]: [Not Secure] <XimenaRth> ssssssssssssssssssh
+[01:43:44] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> a
+[01:43:45] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> home
+[01:43:48] [Server thread/INFO]: [Not Secure] <XimenaRth> asies
+[01:43:48] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> o bacj
+[01:43:50] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> xdd
+[01:43:54] [Server thread/INFO]: [Not Secure] <XimenaRth> maximiza todo
+[01:44:12] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> ijos del mal
+[01:44:20] [Server thread/INFO]: [Not Secure] <M1sh4_uwu> cuanto se tarda en purificar el awa?
